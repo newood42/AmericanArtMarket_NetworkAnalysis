@@ -1,0 +1,518 @@
+source_name,target_name,weight,source,target
+"Adams, Edward D.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,1,182
+"Adams, Edward D.",Sector 22-Utilities,1,1,183
+"Adams, Edward D.",Sector 23-Construction,2,1,184
+"Adams, Edward D.",Sector 31-33-Manufacturing,2,1,185
+"Adams, Edward D.",Sector 48-49-Transportation and Warehousing,10,1,186
+"Adams, Edward D.",Sector 52-Finance and Insurance,5,1,187
+"Aitken, John W.",Sector 42-Wholesale Trade,3,2,188
+"Aitken, John W.",Sector 52-Finance and Insurance,5,2,187
+"Aitken, John W.",Sector 62-Health Care and Social Assistance,1,2,189
+"Alger, Russel Alexander",Sector 31-33-Manufacturing,4,3,185
+"Alger, Russel Alexander",Sector 48-49-Transportation and Warehousing,2,3,186
+"Alger, Russel Alexander",Sector 92-Public Administration,3,3,190
+"Allen, George L.",Sector 31-33-Manufacturing,1,4,185
+"Allis, Charles",Sector 31-33-Manufacturing,2,5,185
+"Allis, Charles",Sector 52-Finance and Insurance,3,5,187
+"Ames, Frederick Lothrop",Sector 31-33-Manufacturing,1,6,185
+"Ames, Frederick Lothrop",Sector 48-49-Transportation and Warehousing,2,6,186
+"Ames, Frederick Lothrop",Sector 52-Finance and Insurance,2,6,187
+"Ames, Oliver",Sector 31-33-Manufacturing,1,7,185
+"Ames, Oliver",Sector 48-49-Transportation and Warehousing,2,7,186
+"Ames, Oliver",Sector 92-Public Administration,3,7,190
+"Andrews, William Loring",Sector 51-Information,1,8,191
+"Armour, George A.",NA,1,9,192
+"Astor, John Jacob (III)",Sector 51-Information,1,10,191
+"Astor, John Jacob (III)",Sector 52-Finance and Insurance,2,10,187
+"Astor, William",Sector 51-Information,3,11,191
+"Astor, William","Sector 71-Arts, Entertainment, and Recreation",1,11,193
+"Astor, William",Sector 72-Accommodation and Food Services,2,11,194
+"Astor, William",Sector 92-Public Administration,3,11,190
+"Avery, Samuel Putnam",Sector 44-45-Retail Trade,1,12,195
+"Avery, Samuel Putnam","Sector 71-Arts, Entertainment, and Recreation",1,12,193
+"Baker, George F.",Sector 22-Utilities,1,13,183
+"Baker, George F.",Sector 31-33-Manufacturing,1,13,185
+"Baker, George F.",Sector 48-49-Transportation and Warehousing,3,13,186
+"Baker, George F.",Sector 51-Information,1,13,191
+"Baker, George F.",Sector 52-Finance and Insurance,7,13,187
+"Bakewell, Allen Campbell",Sector 22-Utilities,1,14,183
+"Bangs, F.N.","Sector 54-Professional, Scientific, and Technical Services",2,15,196
+"Barger, Samuel F.",Sector 31-33-Manufacturing,1,16,185
+"Barger, Samuel F.",Sector 48-49-Transportation and Warehousing,7,16,186
+"Barger, Samuel F.",Sector 51-Information,1,16,191
+"Barger, Samuel F.",Sector 52-Finance and Insurance,1,16,187
+"Barger, Samuel F.","Sector 54-Professional, Scientific, and Technical Services",1,16,196
+"Bartlett, Francis",Sector 52-Finance and Insurance,1,17,187
+"Bartlett, Francis","Sector 54-Professional, Scientific, and Technical Services",1,17,196
+"Bennett, James Gordon Jr.",Sector 51-Information,4,18,191
+"Berwind, Edward Julius","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",7,19,182
+"Berwind, Edward Julius",Sector 23-Construction,1,19,184
+"Berwind, Edward Julius",Sector 31-33-Manufacturing,2,19,185
+"Berwind, Edward Julius",Sector 48-49-Transportation and Warehousing,13,19,186
+"Berwind, Edward Julius",Sector 52-Finance and Insurance,3,19,187
+"Berwind, Edward Julius",Sector 53-Real Estate and Rental and Leasing,1,19,197
+"Bishop, Heber R.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,20,182
+"Bishop, Heber R.",Sector 31-33-Manufacturing,2,20,185
+"Bishop, Heber R.",Sector 48-49-Transportation and Warehousing,5,20,186
+"Bishop, Heber R.",Sector 52-Finance and Insurance,1,20,187
+"Bixby, William K.",Sector 22-Utilities,1,21,183
+"Bixby, William K.",Sector 31-33-Manufacturing,1,21,185
+"Bixby, William K.",Sector 48-49-Transportation and Warehousing,3,21,186
+"Bixby, William K.",Sector 52-Finance and Insurance,2,21,187
+"Blumenthal, George","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,22,182
+"Blumenthal, George",Sector 22-Utilities,1,22,183
+"Blumenthal, George",Sector 31-33-Manufacturing,1,22,185
+"Blumenthal, George",Sector 52-Finance and Insurance,4,22,187
+"Borden, Matthew Challoner Durfee",Sector 31-33-Manufacturing,1,23,185
+"Borden, Matthew Challoner Durfee",Sector 52-Finance and Insurance,5,23,187
+"Bostwick, Jabez A.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,24,182
+"Bostwick, Jabez A.",Sector 48-49-Transportation and Warehousing,1,24,186
+"Brookfield, William",Sector 31-33-Manufacturing,4,25,185
+"Brookfield, William",Sector 52-Finance and Insurance,3,25,187
+"Burrage, Albert C.","Sector 11-Agriculture, Forestry, Fishing and Hunting",1,26,198
+"Burrage, Albert C.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",7,26,182
+"Burrage, Albert C.",Sector 22-Utilities,6,26,183
+"Burrage, Albert C.",Sector 31-33-Manufacturing,1,26,185
+"Butler, Theron R.",Sector 42-Wholesale Trade,1,27,188
+"Butler, Theron R.",Sector 48-49-Transportation and Warehousing,1,27,186
+"Carstairs, Charles Stewart",Sector 44-45-Retail Trade,2,28,195
+"Carstairs, John Haseltine",Sector 42-Wholesale Trade,1,29,188
+"Catlin, Daniel",Sector 31-33-Manufacturing,2,30,185
+"Catlin, Daniel",Sector 52-Finance and Insurance,3,30,187
+"Clark, George Crawford",Sector 52-Finance and Insurance,1,31,187
+"Clark, William (Newark)",Sector 31-33-Manufacturing,2,32,185
+"Clark, William Andrews","Sector 11-Agriculture, Forestry, Fishing and Hunting",2,33,198
+"Clark, William Andrews",Sector 31-33-Manufacturing,1,33,185
+"Clark, William Andrews",Sector 51-Information,1,33,191
+"Clark, William Andrews",Sector 52-Finance and Insurance,1,33,187
+"Clarke, Augustus W.",Sector 44-45-Retail Trade,1,34,195
+"Clarke, Thomas B.",Sector 31-33-Manufacturing,1,35,185
+"Clarke, Thomas B.",Sector 44-45-Retail Trade,1,35,195
+"Closson, James T.",Sector 52-Finance and Insurance,1,36,187
+"Clyde, William P.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,37,182
+"Clyde, William P.",Sector 31-33-Manufacturing,1,37,185
+"Clyde, William P.",Sector 48-49-Transportation and Warehousing,4,37,186
+"Clyde, William P.",Sector 53-Real Estate and Rental and Leasing,1,37,197
+"Cochran, Thomas","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",4,38,182
+"Cochran, Thomas",Sector 23-Construction,1,38,184
+"Cochran, Thomas",Sector 31-33-Manufacturing,1,38,185
+"Cochran, Thomas",Sector 42-Wholesale Trade,1,38,188
+"Cochran, Thomas",Sector 48-49-Transportation and Warehousing,2,38,186
+"Cochran, Thomas",Sector 52-Finance and Insurance,6,38,187
+"Coffin, Charles Albert",Sector 22-Utilities,2,39,183
+"Coffin, Charles Albert",Sector 31-33-Manufacturing,1,39,185
+"Comstock, William C.",Sector 52-Finance and Insurance,1,40,187
+"Comstock, William C.",Sector 53-Real Estate and Rental and Leasing,1,40,197
+"Comstock, William C.",Sector 61-Educational Services,1,40,199
+"Connor, Washington Everett",Sector 52-Finance and Insurance,3,41,187
+"Cook, Henry H.",Sector 52-Finance and Insurance,3,42,187
+"Crocker, Charles","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,43,182
+"Crocker, Charles",Sector 23-Construction,1,43,184
+"Crocker, Charles",Sector 44-45-Retail Trade,1,43,195
+"Crocker, Charles",Sector 48-49-Transportation and Warehousing,4,43,186
+"Crocker, Charles",Sector 52-Finance and Insurance,2,43,187
+"Crocker, Charles",Sector 92-Public Administration,1,43,190
+"Curtis, George N.",Sector 48-49-Transportation and Warehousing,2,44,186
+"Curtis, William John",Sector 22-Utilities,2,45,183
+"Curtis, William John",Sector 23-Construction,1,45,184
+"Curtis, William John",Sector 31-33-Manufacturing,5,45,185
+"Curtis, William John",Sector 48-49-Transportation and Warehousing,1,45,186
+"Curtis, William John",Sector 51-Information,2,45,191
+"Curtis, William John","Sector 54-Professional, Scientific, and Technical Services",1,45,196
+"Davenport, Ira",Sector 92-Public Administration,3,46,190
+"Davis, Theodore M.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",7,47,182
+"Davis, Theodore M.",Sector 52-Finance and Insurance,1,47,187
+"Davis, Theodore M.","Sector 54-Professional, Scientific, and Technical Services",1,47,196
+"Davis, Theodore M.","Sector 71-Arts, Entertainment, and Recreation",1,47,193
+"De Lima, David A.",Sector 42-Wholesale Trade,1,48,188
+"De Lima, David A.",Sector 48-49-Transportation and Warehousing,1,48,186
+"De Lima, David A.",Sector 92-Public Administration,1,48,190
+"Deering, Charles",Sector 31-33-Manufacturing,2,49,185
+"Dick, Harris Brisbane",Sector 51-Information,1,50,191
+"Dun, Robert Graham",Sector 44-45-Retail Trade,1,51,195
+"Dun, Robert Graham",Sector 56-Administrative and Support and Waste Management and Remediation Services,2,51,200
+"Edwards, Robert J.",NA,1,52,192
+"Ellsworth, James W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,53,182
+"Ellsworth, James W.",Sector 48-49-Transportation and Warehousing,1,53,186
+"Ellsworth, James W.",Sector 51-Information,1,53,191
+"Ellsworth, James W.",Sector 52-Finance and Insurance,1,53,187
+"Fahnestock, Harris Charles",Sector 22-Utilities,2,54,183
+"Fahnestock, Harris Charles",Sector 31-33-Manufacturing,1,54,185
+"Fahnestock, Harris Charles",Sector 48-49-Transportation and Warehousing,4,54,186
+"Fahnestock, Harris Charles",Sector 51-Information,1,54,191
+"Fahnestock, Harris Charles",Sector 52-Finance and Insurance,2,54,187
+"Field, Marshall",Sector 42-Wholesale Trade,1,55,188
+"Field, Marshall",Sector 44-45-Retail Trade,1,55,195
+"Fiske, Josiah M.",Sector 42-Wholesale Trade,1,56,188
+"Fiske, Josiah M.",Sector 52-Finance and Insurance,3,56,187
+"Flagler, Henry Morrison","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,57,182
+"Flagler, Henry Morrison",Sector 42-Wholesale Trade,2,57,188
+"Flagler, Henry Morrison",Sector 48-49-Transportation and Warehousing,2,57,186
+"Flagler, Henry Morrison",Sector 72-Accommodation and Food Services,5,57,194
+"Fletcher, Isaac D.",Sector 22-Utilities,1,58,183
+"Fletcher, Isaac D.",Sector 31-33-Manufacturing,4,58,185
+"Fletcher, Isaac D.",Sector 52-Finance and Insurance,1,58,187
+"Flower, Frederick, S.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,59,182
+"Flower, Frederick, S.",Sector 22-Utilities,1,59,183
+"Flower, Frederick, S.",Sector 31-33-Manufacturing,1,59,185
+"Flower, Frederick, S.",Sector 48-49-Transportation and Warehousing,7,59,186
+"Flower, Frederick, S.",Sector 52-Finance and Insurance,1,59,187
+"Foos, Lamar",Sector 31-33-Manufacturing,1,60,185
+"Foos, Lamar","Sector 54-Professional, Scientific, and Technical Services",1,60,196
+"Frick, Henry Clay (NY)","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,61,182
+"Frick, Henry Clay (NY)",Sector 31-33-Manufacturing,3,61,185
+"Frick, Henry Clay (NY)",Sector 52-Finance and Insurance,1,61,187
+"Fry, John Hemming",Sector 61-Educational Services,2,62,199
+"Fry, John Hemming","Sector 71-Arts, Entertainment, and Recreation",1,62,193
+"Fuller, William H.",Sector 44-45-Retail Trade,2,63,195
+"Fuller, William H.","Sector 54-Professional, Scientific, and Technical Services",1,63,196
+"Gardiner, George Schuyler",Sector 31-33-Manufacturing,1,64,185
+"Gardiner, George Schuyler",Sector 92-Public Administration,1,64,190
+"Gary, Elbert H.",Sector 31-33-Manufacturing,6,65,185
+"Gary, Elbert H.",Sector 52-Finance and Insurance,3,65,187
+"Gary, Elbert H.",Sector 53-Real Estate and Rental and Leasing,1,65,197
+"Gould, Frank Jay",Sector 22-Utilities,1,66,183
+"Gould, Frank Jay",Sector 48-49-Transportation and Warehousing,5,66,186
+"Gould, Frank Jay",Sector 51-Information,1,66,191
+"Gould, Frank Jay",Sector 52-Finance and Insurance,2,66,187
+"Gould, Frank Jay",Sector 72-Accommodation and Food Services,1,66,194
+"Gould, George Jay I",Sector 48-49-Transportation and Warehousing,9,67,186
+"Gould, George Jay I",Sector 51-Information,1,67,191
+"Gould, George Jay I",Sector 52-Finance and Insurance,4,67,187
+"Gould, Helen",Sector 81-Other Services (except Public Administration),3,68,201
+"Graham, Malcolm",Sector 31-33-Manufacturing,4,69,185
+"Gunsaulus, Dr. Frank W.",Sector 61-Educational Services,8,70,199
+"Gunsaulus, Dr. Frank W.",Sector 81-Other Services (except Public Administration),4,70,201
+"Harbeck, Charles T.",Sector 44-45-Retail Trade,1,71,195
+"Harbeck, Charles T.",Sector 51-Information,1,71,191
+"Harding, J. Horace","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,72,182
+"Harding, J. Horace",Sector 22-Utilities,2,72,183
+"Harding, J. Horace",Sector 31-33-Manufacturing,3,72,185
+"Harding, J. Horace",Sector 48-49-Transportation and Warehousing,6,72,186
+"Harding, J. Horace",Sector 52-Finance and Insurance,4,72,187
+"Harkness, Charles W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,73,182
+"Harkness, Charles W.",Sector 48-49-Transportation and Warehousing,3,73,186
+"Harkness, Charles W.",Sector 52-Finance and Insurance,1,73,187
+"Harkness, Charles W.","Sector 54-Professional, Scientific, and Technical Services",1,73,196
+"Harkness, Edward",Sector 23-Construction,1,74,184
+"Harkness, Edward",Sector 48-49-Transportation and Warehousing,6,74,186
+"Harper, Fletcher, Jr.",Sector 51-Information,2,75,191
+"Harper, Joseph Abner",Sector 51-Information,1,76,191
+"Harrison, Hugh H.",Sector 22-Utilities,3,77,183
+"Harrison, Hugh H.",Sector 31-33-Manufacturing,1,77,185
+"Harrison, Hugh H.",Sector 48-49-Transportation and Warehousing,1,77,186
+"Hartley, Marcellus",Sector 31-33-Manufacturing,7,78,185
+"Hartley, Marcellus",Sector 52-Finance and Insurance,6,78,187
+"Hartley, Marcellus",Sector 56-Administrative and Support and Waste Management and Remediation Services,1,78,200
+"Healy, Aaron Augustus",Sector 31-33-Manufacturing,2,79,185
+"Healy, Aaron Augustus",Sector 44-45-Retail Trade,1,79,195
+"Healy, Aaron Augustus",Sector 92-Public Administration,1,79,190
+"Hearn, George A.",Sector 42-Wholesale Trade,1,80,188
+"Hearst, William Randolph","Sector 11-Agriculture, Forestry, Fishing and Hunting",2,81,198
+"Hearst, William Randolph",Sector 51-Information,20,81,191
+"Hearst, William Randolph",Sector 92-Public Administration,1,81,190
+"Heye, Dr. George G.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,82,182
+"Heye, Dr. George G.",Sector 52-Finance and Insurance,1,82,187
+"Heye, Dr. George G.","Sector 71-Arts, Entertainment, and Recreation",1,82,193
+"Hill, James N.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",3,83,182
+"Hill, James N.",Sector 48-49-Transportation and Warehousing,7,83,186
+"Hill, James N.",Sector 52-Finance and Insurance,3,83,187
+"Hill, James N.",Sector 53-Real Estate and Rental and Leasing,1,83,197
+"Hine, Francis L.",Sector 31-33-Manufacturing,1,84,185
+"Hine, Francis L.",Sector 52-Finance and Insurance,10,84,187
+"Hoagland, Joseph Christoffel",Sector 31-33-Manufacturing,2,85,185
+"Holmes, John Grier",Sector 48-49-Transportation and Warehousing,1,86,186
+"Holmes, John Grier",Sector 52-Finance and Insurance,4,86,187
+"Horton, Henry Lawrence",Sector 52-Finance and Insurance,2,87,187
+"Hotchkiss, Horace L.",Sector 23-Construction,1,88,184
+"Hotchkiss, Horace L.",Sector 51-Information,3,88,191
+"Hotchkiss, Horace L.",Sector 52-Finance and Insurance,1,88,187
+"Hoyt, Charles Albert",Sector 31-33-Manufacturing,3,89,185
+"Hoyt, Charles Albert",Sector 52-Finance and Insurance,1,89,187
+"Humphreys, Dr. Alexander C.",Sector 22-Utilities,5,90,183
+"Humphreys, Dr. Alexander C.",Sector 52-Finance and Insurance,1,90,187
+"Humphreys, Dr. Alexander C.",Sector 61-Educational Services,1,90,199
+"Huntington, Collis P.",Sector 31-33-Manufacturing,1,91,185
+"Huntington, Collis P.",Sector 42-Wholesale Trade,1,91,188
+"Huntington, Collis P.",Sector 48-49-Transportation and Warehousing,3,91,186
+"Huntington, Collis P.",Sector 53-Real Estate and Rental and Leasing,1,91,197
+"Huntington, Henry Edwards",Sector 22-Utilities,2,92,183
+"Huntington, Henry Edwards",Sector 31-33-Manufacturing,2,92,185
+"Huntington, Henry Edwards",Sector 42-Wholesale Trade,1,92,188
+"Huntington, Henry Edwards",Sector 48-49-Transportation and Warehousing,10,92,186
+"Huntington, Henry Edwards",Sector 53-Real Estate and Rental and Leasing,2,92,197
+"Hutchinson, William J.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",3,93,182
+"Hutchinson, William J.",Sector 31-33-Manufacturing,2,93,185
+"Hutchinson, William J.",Sector 52-Finance and Insurance,3,93,187
+"Hyde, Clarence M.",Sector 31-33-Manufacturing,1,94,185
+"Hyde, Clarence M.","Sector 54-Professional, Scientific, and Technical Services",1,94,196
+"Hyde, Henry Baldwin",Sector 42-Wholesale Trade,1,95,188
+"Hyde, Henry Baldwin",Sector 52-Finance and Insurance,2,95,187
+"Inglis, James Smith",Sector 44-45-Retail Trade,1,96,195
+"Ives, Brayton C.","Sector 11-Agriculture, Forestry, Fishing and Hunting",1,97,198
+"Ives, Brayton C.",Sector 31-33-Manufacturing,3,97,185
+"Ives, Brayton C.",Sector 48-49-Transportation and Warehousing,2,97,186
+"Ives, Brayton C.",Sector 52-Finance and Insurance,4,97,187
+"Ives, Brayton C.",Sector 53-Real Estate and Rental and Leasing,2,97,197
+"Jackson, Edwin E.",Sector 31-33-Manufacturing,1,98,185
+"Jackson, Edwin E.",Sector 52-Finance and Insurance,2,98,187
+"Jackson, Edwin E.",Sector 53-Real Estate and Rental and Leasing,1,98,197
+"Jackson, Edwin E.","Sector 54-Professional, Scientific, and Technical Services",1,98,196
+"Jennings, Frederick Beach",Sector 31-33-Manufacturing,3,99,185
+"Jennings, Frederick Beach",Sector 42-Wholesale Trade,1,99,188
+"Jennings, Frederick Beach",Sector 48-49-Transportation and Warehousing,3,99,186
+"Jennings, Frederick Beach",Sector 52-Finance and Insurance,2,99,187
+"Jennings, Frederick Beach","Sector 54-Professional, Scientific, and Technical Services",1,99,196
+"Jennings, Walter","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,100,182
+"Jennings, Walter",Sector 31-33-Manufacturing,1,100,185
+"Jennings, Walter",Sector 52-Finance and Insurance,2,100,187
+"Jennings, Walter",Sector 62-Health Care and Social Assistance,1,100,189
+"Jewett, William Kennon","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,101,182
+"Jewett, William Kennon",Sector 31-33-Manufacturing,2,101,185
+"Jewett, William Kennon",Sector 48-49-Transportation and Warehousing,1,101,186
+"Jewett, William Kennon",Sector 52-Finance and Insurance,2,101,187
+"Johnson, John G.","Sector 54-Professional, Scientific, and Technical Services",2,102,196
+"King, David H., Jr.",Sector 23-Construction,1,103,184
+"King, David H., Jr.",Sector 48-49-Transportation and Warehousing,1,103,186
+"King, David H., Jr.","Sector 71-Arts, Entertainment, and Recreation",1,103,193
+"Kirby, Thomas E.",Sector 44-45-Retail Trade,3,104,195
+"Lambert, Catholina",Sector 31-33-Manufacturing,2,105,185
+"Lambert, Catholina",Sector 52-Finance and Insurance,2,105,187
+"Lawrence, Cyrus I.",Sector 48-49-Transportation and Warehousing,3,106,186
+"Lawrence, Cyrus I.",Sector 52-Finance and Insurance,2,106,187
+"Lawrence, Frank R.",Sector 52-Finance and Insurance,4,107,187
+"Lawrence, Frank R.","Sector 54-Professional, Scientific, and Technical Services",1,107,196
+"Layton, Frederick",Sector 31-33-Manufacturing,2,108,185
+"Lehmaier, Louis A.",Sector 51-Information,1,109,191
+"Lehman, Arthur",Sector 22-Utilities,1,110,183
+"Lehman, Arthur",Sector 23-Construction,1,110,184
+"Lehman, Arthur",Sector 31-33-Manufacturing,7,110,185
+"Lehman, Arthur",Sector 42-Wholesale Trade,1,110,188
+"Lehman, Arthur",Sector 44-45-Retail Trade,2,110,195
+"Lehman, Arthur",Sector 48-49-Transportation and Warehousing,1,110,186
+"Lehman, Arthur",Sector 51-Information,1,110,191
+"Lehman, Arthur",Sector 52-Finance and Insurance,3,110,187
+"Leighton, George E.",Sector 31-33-Manufacturing,1,111,185
+"Leighton, George E.",Sector 48-49-Transportation and Warehousing,2,111,186
+"Leighton, George E.",Sector 52-Finance and Insurance,2,111,187
+"Leighton, George E.","Sector 54-Professional, Scientific, and Technical Services",1,111,196
+"Lewisohn, Adolph","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",3,112,182
+"Lewisohn, Adolph",Sector 42-Wholesale Trade,1,112,188
+"Lewisohn, Adolph",NA,1,112,192
+"Loeser, Frederick",Sector 42-Wholesale Trade,1,113,188
+"Loeser, Frederick",Sector 44-45-Retail Trade,1,113,195
+"Mansfield, Burton",Sector 22-Utilities,1,114,183
+"Mansfield, Burton",Sector 31-33-Manufacturing,1,114,185
+"Mansfield, Burton",Sector 52-Finance and Insurance,5,114,187
+"Mansfield, Burton","Sector 54-Professional, Scientific, and Technical Services",1,114,196
+"Martin, Bradley","Sector 54-Professional, Scientific, and Technical Services",1,115,196
+"Mather, Samuel","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,116,182
+"Mather, Samuel",Sector 31-33-Manufacturing,1,116,185
+"Mather, Samuel",Sector 52-Finance and Insurance,1,116,187
+"Mather, Samuel",Sector 62-Health Care and Social Assistance,1,116,189
+"McAlpin, David H.",Sector 31-33-Manufacturing,1,117,185
+"McAlpin, David H.",Sector 62-Health Care and Social Assistance,4,117,189
+"McGarrah, G. W.",Sector 48-49-Transportation and Warehousing,1,118,186
+"McGarrah, G. W.",Sector 52-Finance and Insurance,15,118,187
+"Mellon, Andrew W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",3,119,182
+"Mellon, Andrew W.",Sector 23-Construction,2,119,184
+"Mellon, Andrew W.",Sector 31-33-Manufacturing,9,119,185
+"Mellon, Andrew W.",Sector 48-49-Transportation and Warehousing,3,119,186
+"Mellon, Andrew W.",Sector 52-Finance and Insurance,5,119,187
+"Mellon, Andrew W.",Sector 92-Public Administration,2,119,190
+"Merriam, William Rush","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,120,182
+"Merriam, William Rush",Sector 31-33-Manufacturing,1,120,185
+"Merriam, William Rush",Sector 52-Finance and Insurance,2,120,187
+"Merriam, William Rush",Sector 92-Public Administration,3,120,190
+"Milbank, Jeremiah",Sector 31-33-Manufacturing,1,121,185
+"Milbank, Jeremiah",Sector 42-Wholesale Trade,1,121,188
+"Milbank, Jeremiah",Sector 48-49-Transportation and Warehousing,1,121,186
+"Milliken, Seth Mellen",Sector 31-33-Manufacturing,24,122,185
+"Milliken, Seth Mellen",Sector 42-Wholesale Trade,1,122,188
+"Milliken, Seth Mellen",Sector 52-Finance and Insurance,5,122,187
+"Milliken, Seth Mellen",Sector 61-Educational Services,1,122,199
+"Mills, Darius Ogden","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,123,182
+"Mills, Darius Ogden",Sector 22-Utilities,1,123,183
+"Mills, Darius Ogden",Sector 48-49-Transportation and Warehousing,6,123,186
+"Mills, Darius Ogden",Sector 52-Finance and Insurance,3,123,187
+"Mills, Darius Ogden",Sector 72-Accommodation and Food Services,1,123,194
+"Moore, William Henry",Sector 31-33-Manufacturing,7,124,185
+"Moore, William Henry",Sector 48-49-Transportation and Warehousing,6,124,186
+"Moore, William Henry",Sector 51-Information,1,124,191
+"Moore, William Henry",Sector 52-Finance and Insurance,4,124,187
+"Morgan, J. Pierpont",Sector 22-Utilities,1,125,183
+"Morgan, J. Pierpont",Sector 31-33-Manufacturing,1,125,185
+"Morgan, J. Pierpont",Sector 48-49-Transportation and Warehousing,9,125,186
+"Morgan, J. Pierpont",Sector 52-Finance and Insurance,7,125,187
+"Morgan, J. Pierpont, Jr.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,126,182
+"Morgan, J. Pierpont, Jr.",Sector 31-33-Manufacturing,2,126,185
+"Morgan, J. Pierpont, Jr.",Sector 48-49-Transportation and Warehousing,3,126,186
+"Morgan, J. Pierpont, Jr.",Sector 52-Finance and Insurance,4,126,187
+"Nickerson, Samuel M.",Sector 48-49-Transportation and Warehousing,1,127,186
+"Nickerson, Samuel M.",Sector 52-Finance and Insurance,2,127,187
+"Obrig, Adolf",Sector 31-33-Manufacturing,1,128,185
+"Obrig, Adolf",Sector 52-Finance and Insurance,4,128,187
+"Oliver, George Tener",Sector 31-33-Manufacturing,2,129,185
+"Oliver, George Tener",Sector 51-Information,2,129,191
+"Oliver, George Tener","Sector 54-Professional, Scientific, and Technical Services",1,129,196
+"Oliver, George Tener",Sector 92-Public Administration,1,129,190
+"Oliver, Henry W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",2,130,182
+"Oliver, Henry W.",Sector 22-Utilities,2,130,183
+"Oliver, Henry W.",Sector 31-33-Manufacturing,6,130,185
+"Oliver, Henry W.",Sector 48-49-Transportation and Warehousing,4,130,186
+"Oliver, Henry W.",Sector 51-Information,1,130,191
+"Oliver, Henry W.",Sector 52-Finance and Insurance,1,130,187
+"Oliver, Henry W.",Sector 62-Health Care and Social Assistance,1,130,189
+"Peavey, Frank Hutchinson",Sector 42-Wholesale Trade,6,131,188
+"Peavey, Frank Hutchinson",Sector 48-49-Transportation and Warehousing,12,131,186
+"Peavey, Frank Hutchinson",Sector 52-Finance and Insurance,1,131,187
+"Penfold, Edmund",Sector 22-Utilities,1,132,183
+"Penfold, Edmund",Sector 52-Finance and Insurance,1,132,187
+"Peters, Samuel T.",Sector 42-Wholesale Trade,1,133,188
+"Peters, Samuel T.",Sector 52-Finance and Insurance,1,133,187
+"Raynor, James A.",Sector 48-49-Transportation and Warehousing,7,134,186
+"Ream, Norman B.",Sector 31-33-Manufacturing,3,135,185
+"Ream, Norman B.",Sector 42-Wholesale Trade,2,135,188
+"Ream, Norman B.",Sector 48-49-Transportation and Warehousing,5,135,186
+"Ream, Norman B.",Sector 52-Finance and Insurance,7,135,187
+"Reid, Daniel G.",Sector 31-33-Manufacturing,6,136,185
+"Reid, Daniel G.",Sector 48-49-Transportation and Warehousing,1,136,186
+"Reid, Daniel G.",Sector 52-Finance and Insurance,6,136,187
+"Reinhardt, Henry",Sector 44-45-Retail Trade,1,137,195
+"Reinhardt, Henry","Sector 71-Arts, Entertainment, and Recreation",1,137,193
+"Reisinger, Hugo",Sector 31-33-Manufacturing,3,138,185
+"Riker, John Lawrence","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,139,182
+"Riker, John Lawrence",Sector 31-33-Manufacturing,7,139,185
+"Riker, John Lawrence",Sector 48-49-Transportation and Warehousing,3,139,186
+"Riker, John Lawrence",Sector 51-Information,1,139,191
+"Riker, John Lawrence",Sector 52-Finance and Insurance,13,139,187
+"Roberts, Marshall O.",Sector 23-Construction,1,140,184
+"Roberts, Marshall O.",Sector 48-49-Transportation and Warehousing,6,140,186
+"Roberts, Marshall O.",Sector 51-Information,1,140,191
+"Roberts, Marshall O.",Sector 52-Finance and Insurance,1,140,187
+"Rockefeller, William Avery Jr.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",3,141,182
+"Rockefeller, William Avery Jr.",Sector 22-Utilities,4,141,183
+"Rockefeller, William Avery Jr.",Sector 23-Construction,1,141,184
+"Rockefeller, William Avery Jr.",Sector 31-33-Manufacturing,1,141,185
+"Rockefeller, William Avery Jr.",Sector 42-Wholesale Trade,2,141,188
+"Rockefeller, William Avery Jr.",Sector 48-49-Transportation and Warehousing,31,141,186
+"Rockefeller, William Avery Jr.",Sector 52-Finance and Insurance,4,141,187
+"Roebling, Ferdinand W.",Sector 22-Utilities,2,142,183
+"Roebling, Ferdinand W.",Sector 31-33-Manufacturing,7,142,185
+"Roebling, Ferdinand W.",Sector 48-49-Transportation and Warehousing,8,142,186
+"Roebling, Ferdinand W.",Sector 52-Finance and Insurance,3,142,187
+"Roloson, Robert W.",Sector 31-33-Manufacturing,1,143,185
+"Roloson, Robert W.",Sector 42-Wholesale Trade,1,143,188
+"Roloson, Robert W.",Sector 52-Finance and Insurance,1,143,187
+"Ruppert, Jacob","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,144,182
+"Ruppert, Jacob",Sector 31-33-Manufacturing,3,144,185
+"Ruppert, Jacob",Sector 52-Finance and Insurance,2,144,187
+"Ruppert, Jacob","Sector 71-Arts, Entertainment, and Recreation",2,144,193
+"Ruppert, Jacob",Sector 92-Public Administration,1,144,190
+"Russel, Horace",Sector 92-Public Administration,2,145,190
+"Ryerson, Martin A.",Sector 31-33-Manufacturing,1,146,185
+"Ryerson, Martin A.",Sector 42-Wholesale Trade,1,146,188
+"Ryerson, Martin A.",Sector 52-Finance and Insurance,2,146,187
+"Sabin, Charles H.",Sector 42-Wholesale Trade,1,147,188
+"Sabin, Charles H.",Sector 52-Finance and Insurance,5,147,187
+"Salter, Thomas P.",Sector 48-49-Transportation and Warehousing,1,148,186
+"Salter, Thomas P.",Sector 92-Public Administration,1,148,190
+"Schiff, Jacob Henry",Sector 48-49-Transportation and Warehousing,2,149,186
+"Schiff, Jacob Henry",Sector 51-Information,1,149,191
+"Schiff, Jacob Henry",Sector 52-Finance and Insurance,6,149,187
+"Schwab, Charles M.",Sector 31-33-Manufacturing,7,150,185
+"Schwab, Charles M.",Sector 52-Finance and Insurance,1,150,187
+"Seligman, Henry",Sector 22-Utilities,7,151,183
+"Seligman, Henry",Sector 31-33-Manufacturing,5,151,185
+"Seligman, Henry",Sector 48-49-Transportation and Warehousing,2,151,186
+"Seligman, Henry",Sector 52-Finance and Insurance,3,151,187
+"Seligman, Isaac Newton",Sector 52-Finance and Insurance,7,152,187
+"Seligman, Isaac Newton",Sector 62-Health Care and Social Assistance,1,152,189
+"Shepherd, James G.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,153,182
+"Shepherd, James G.",Sector 22-Utilities,1,153,183
+"Shepherd, James G.",Sector 52-Finance and Insurance,1,153,187
+"Sloane, William Douglas",Sector 31-33-Manufacturing,1,154,185
+"Sloane, William Douglas",Sector 42-Wholesale Trade,1,154,188
+"Sloane, William Douglas",Sector 48-49-Transportation and Warehousing,1,154,186
+"Sloane, William Douglas",Sector 51-Information,1,154,191
+"Sloane, William Douglas",Sector 52-Finance and Insurance,5,154,187
+"Sloane, William Douglas",Sector 62-Health Care and Social Assistance,1,154,189
+"Smith, Charles Stewart",Sector 42-Wholesale Trade,2,155,188
+"Smith, Charles Stewart",Sector 52-Finance and Insurance,6,155,187
+"Smith, Charles Stewart",Sector 53-Real Estate and Rental and Leasing,1,155,197
+"Smith, Charles Stewart",Sector 62-Health Care and Social Assistance,1,155,189
+"Smith, Theodore E.",Sector 31-33-Manufacturing,1,156,185
+"Smith, Theodore E.",Sector 52-Finance and Insurance,2,156,187
+"Spaulding, William S.",Sector 31-33-Manufacturing,3,157,185
+"Spaulding, William S.",Sector 42-Wholesale Trade,1,157,188
+"Spaulding, William S.",Sector 52-Finance and Insurance,1,157,187
+"Spoor, John A.",Sector 31-33-Manufacturing,2,158,185
+"Spoor, John A.",Sector 52-Finance and Insurance,1,158,187
+"Stanford, Leland","Sector 11-Agriculture, Forestry, Fishing and Hunting",1,159,198
+"Stanford, Leland",Sector 31-33-Manufacturing,2,159,185
+"Stanford, Leland",Sector 48-49-Transportation and Warehousing,3,159,186
+"Stanford, Leland",Sector 52-Finance and Insurance,2,159,187
+"Stanford, Leland","Sector 54-Professional, Scientific, and Technical Services",2,159,196
+"Stanford, Leland",Sector 92-Public Administration,2,159,190
+"Stern, Louis",Sector 31-33-Manufacturing,1,160,185
+"Stern, Louis",Sector 44-45-Retail Trade,1,160,195
+"Stern, Louis",Sector 52-Finance and Insurance,5,160,187
+"Stern, Louis",Sector 53-Real Estate and Rental and Leasing,1,160,197
+"Stewart, Lispenard",Sector 52-Finance and Insurance,1,161,187
+"Stewart, Lispenard",Sector 53-Real Estate and Rental and Leasing,1,161,197
+"Stewart, Lispenard","Sector 54-Professional, Scientific, and Technical Services",2,161,196
+"Stewart, Lispenard",Sector 92-Public Administration,1,161,190
+"Stillman, James","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,162,182
+"Stillman, James",Sector 52-Finance and Insurance,5,162,187
+"Stransky, Josef","Sector 71-Arts, Entertainment, and Recreation",8,163,193
+"Tenney, Charles Henry",Sector 42-Wholesale Trade,4,164,188
+"Tenney, Charles Henry",Sector 52-Finance and Insurance,3,164,187
+"Terry, John T.",Sector 44-45-Retail Trade,1,165,195
+"Terry, John T.",Sector 48-49-Transportation and Warehousing,2,165,186
+"Terry, John T.",Sector 51-Information,3,165,191
+"Terry, John T.",Sector 52-Finance and Insurance,5,165,187
+"Thomas, Seth Edward",Sector 31-33-Manufacturing,1,166,185
+"Thorne, Samuel P.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",1,167,182
+"Thorne, Samuel P.",Sector 48-49-Transportation and Warehousing,6,167,186
+"Thorne, Samuel P.",Sector 52-Finance and Insurance,4,167,187
+"Tousey, Sinclair",Sector 51-Information,5,168,191
+"Tousey, Sinclair",Sector 52-Finance and Insurance,1,168,187
+"Tuckerman, Lucius",Sector 31-33-Manufacturing,2,169,185
+"Valentine, Lawson","Sector 11-Agriculture, Forestry, Fishing and Hunting",1,170,198
+"Valentine, Lawson",Sector 31-33-Manufacturing,2,170,185
+"Valentine, Lawson",Sector 51-Information,3,170,191
+"Valentine, P.A.",Sector 31-33-Manufacturing,3,171,185
+"Valentine, P.A.",Sector 48-49-Transportation and Warehousing,2,171,186
+"Valentine, P.A.",Sector 52-Finance and Insurance,1,171,187
+"Valentine, P.A.",Sector 53-Real Estate and Rental and Leasing,1,171,197
+"Vanderbilt, Cornelius II",Sector 48-49-Transportation and Warehousing,14,172,186
+"Vanderbilt, Cornelius II",Sector 52-Finance and Insurance,3,172,187
+"Vanderbilt, William Kissam",Sector 23-Construction,4,173,184
+"Vanderbilt, William Kissam",Sector 48-49-Transportation and Warehousing,24,173,186
+"Vanderbilt, William Kissam","Sector 71-Arts, Entertainment, and Recreation",1,173,193
+"Walker, E. Chandler",Sector 31-33-Manufacturing,2,174,185
+"Walker, E. Chandler",Sector 48-49-Transportation and Warehousing,1,174,186
+"Walker, E. Chandler",Sector 53-Real Estate and Rental and Leasing,1,174,197
+"Walters, Henry",Sector 44-45-Retail Trade,1,175,195
+"Walters, Henry",Sector 48-49-Transportation and Warehousing,4,175,186
+"Walters, Henry",Sector 52-Finance and Insurance,1,175,187
+"Walters, Henry","Sector 71-Arts, Entertainment, and Recreation",1,175,193
+"Ward, Leslie Dodd",Sector 22-Utilities,1,176,183
+"Ward, Leslie Dodd",Sector 31-33-Manufacturing,2,176,185
+"Ward, Leslie Dodd",Sector 48-49-Transportation and Warehousing,1,176,186
+"Ward, Leslie Dodd",Sector 52-Finance and Insurance,4,176,187
+"Ward, Leslie Dodd",Sector 62-Health Care and Social Assistance,4,176,189
+"Warren, John Hobart",Sector 31-33-Manufacturing,1,177,185
+"Warren, John Hobart",Sector 48-49-Transportation and Warehousing,2,177,186
+"Warren, John Hobart",Sector 52-Finance and Insurance,1,177,187
+"White, George Robert",Sector 42-Wholesale Trade,2,178,188
+"White, George Robert",Sector 52-Finance and Insurance,1,178,187
+"Widener, Peter A.B.",Sector 31-33-Manufacturing,2,179,185
+"Widener, Peter A.B.",Sector 48-49-Transportation and Warehousing,8,179,186
+"Widener, Peter A.B.",Sector 92-Public Administration,1,179,190
+"Willets, Howard","Sector 11-Agriculture, Forestry, Fishing and Hunting",1,180,198
+"Willets, Howard",Sector 44-45-Retail Trade,1,180,195
+"Willets, Howard",Sector 53-Real Estate and Rental and Leasing,1,180,197
+"Woolworth, Frank Winfield",Sector 42-Wholesale Trade,4,181,188
+"Woolworth, Frank Winfield",Sector 52-Finance and Insurance,2,181,187
+"Woolworth, Frank Winfield",Sector 53-Real Estate and Rental and Leasing,1,181,197

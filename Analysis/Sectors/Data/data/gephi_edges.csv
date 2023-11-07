@@ -1,0 +1,611 @@
+source_label,target_label,ulan.x,source,source_role,ulan.y,target,target_role
+"Burrage, Albert C.","Sector 11-Agriculture, Forestry, Fishing and Hunting",500447367,1,collector,NA,149,sector
+"Clark, William Andrews","Sector 11-Agriculture, Forestry, Fishing and Hunting",500448232,2,collector,NA,149,sector
+"Hearst, William Randolph","Sector 11-Agriculture, Forestry, Fishing and Hunting",500213593,3,collector,NA,149,sector
+"Ives, Brayton C.","Sector 11-Agriculture, Forestry, Fishing and Hunting",500448271,4,collector,NA,149,sector
+"Stanford, Leland","Sector 11-Agriculture, Forestry, Fishing and Hunting",500326383,5,collector,NA,149,sector
+"Valentine, Lawson","Sector 11-Agriculture, Forestry, Fishing and Hunting",500448211,6,collector,NA,149,sector
+"Willets, Howard","Sector 11-Agriculture, Forestry, Fishing and Hunting",500443260,7,collector,NA,149,sector
+"Adams, Edward D.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",none,8,collector,NA,150,sector
+"Berwind, Edward Julius","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447709,9,collector,NA,150,sector
+"Bishop, Heber R.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500446555,10,collector,NA,150,sector
+"Blumenthal, George","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500314546,11,collector,NA,150,sector
+"Bostwick, Jabez A.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500448241,12,collector,NA,150,sector
+"Burrage, Albert C.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447367,1,collector,NA,150,sector
+"Clyde, William P.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500450037,13,collector,NA,150,sector
+"Cochran, Thomas","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",none,14,collector,NA,150,sector
+"Crocker, Charles","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447868,15,collector,NA,150,sector
+"Davis, Theodore M.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500443803,16,collector,NA,150,sector
+"Ellsworth, James W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500443239,17,collector,NA,150,sector
+"Flagler, Henry Morrison","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500259690,18,collector,NA,150,sector
+"Flower, Frederick, S.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500446609,19,collector,NA,150,sector
+"Frick, Henry Clay (NY)","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500274405,20,collector,NA,150,sector
+"Harding, J. Horace","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500448293,21,collector,NA,150,sector
+"Harkness, Charles W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500443497,22,collector,NA,150,sector
+"Heye, Dr. George G.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500372637,23,collector,NA,150,sector
+"Hill, James N.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500449909,24,collector,NA,150,sector
+"Jennings, Walter","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500443623,25,collector,NA,150,sector
+"Mather, Samuel","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447001,26,collector,NA,150,sector
+"Mellon, Andrew W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500356367,27,collector,NA,150,sector
+"Merriam, William Rush","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447607,28,collector,NA,150,sector
+"Mills, Darius Ogden","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447907,29,collector,NA,150,sector
+"Oliver, Henry W.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500443254,30,collector,NA,150,sector
+"Riker, John Lawrence","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447957,31,collector,NA,150,sector
+"Rockefeller, William Avery Jr.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447943,32,collector,NA,150,sector
+"Ruppert, Jacob","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500446574,33,collector,NA,150,sector
+"Shepherd, James G.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447386,34,collector,NA,150,sector
+"Stillman, James","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500445305,35,collector,NA,150,sector
+"Thorne, Samuel P.","Sector 21-Mining, Quarrying, and Oil and Gas Extraction",500447668,36,collector,NA,150,sector
+"Adams, Edward D.",Sector 22-Utilities,none,8,collector,NA,151,sector
+"Baker, George F.",Sector 22-Utilities,500448264,37,collector,NA,151,sector
+"Bakewell, Allen Campbell",Sector 22-Utilities,500446711,38,collector,NA,151,sector
+"Blumenthal, George",Sector 22-Utilities,500314546,11,collector,NA,151,sector
+"Burrage, Albert C.",Sector 22-Utilities,500447367,1,collector,NA,151,sector
+"Coffin, Charles Albert",Sector 22-Utilities,500443262,39,collector,NA,151,sector
+"Curtis, William John",Sector 22-Utilities,500445510,40,collector,NA,151,sector
+"Fahnestock, Harris Charles",Sector 22-Utilities,500447606,41,collector,NA,151,sector
+"Fletcher, Isaac D.",Sector 22-Utilities,none,42,collector,NA,151,sector
+"Flower, Frederick, S.",Sector 22-Utilities,500446609,19,collector,NA,151,sector
+"Gould, Frank Jay",Sector 22-Utilities,500448359,43,collector,NA,151,sector
+"Harding, J. Horace",Sector 22-Utilities,500448293,21,collector,NA,151,sector
+"Harrison, Hugh H.",Sector 22-Utilities,none,44,collector,NA,151,sector
+"Humphreys, Dr. Alexander C.",Sector 22-Utilities,none,45,collector,NA,151,sector
+"Huntington, Henry Edwards",Sector 22-Utilities,500435856,46,collector,NA,151,sector
+"Lehman, Arthur",Sector 22-Utilities,500439393,47,collector,NA,151,sector
+"Mansfield, Burton",Sector 22-Utilities,500448291,48,collector,NA,151,sector
+"Mills, Darius Ogden",Sector 22-Utilities,500447907,29,collector,NA,151,sector
+"Morgan, J. Pierpont",Sector 22-Utilities,500322851,49,collector,NA,151,sector
+"Oliver, Henry W.",Sector 22-Utilities,500443254,30,collector,NA,151,sector
+"Penfold, Edmund",Sector 22-Utilities,500443893,50,collector,NA,151,sector
+"Rockefeller, William Avery Jr.",Sector 22-Utilities,500447943,32,collector,NA,151,sector
+"Roebling, Ferdinand W.",Sector 22-Utilities,500447566,51,collector,NA,151,sector
+"Seligman, Henry",Sector 22-Utilities,500448095,52,collector,NA,151,sector
+"Shepherd, James G.",Sector 22-Utilities,500447386,34,collector,NA,151,sector
+"Ward, Leslie Dodd",Sector 22-Utilities,500448108,53,collector,NA,151,sector
+"Adams, Edward D.",Sector 23-Construction,none,8,collector,NA,152,sector
+"Berwind, Edward Julius",Sector 23-Construction,500447709,9,collector,NA,152,sector
+"Cochran, Thomas",Sector 23-Construction,none,14,collector,NA,152,sector
+"Crocker, Charles",Sector 23-Construction,500447868,15,collector,NA,152,sector
+"Curtis, William John",Sector 23-Construction,500445510,40,collector,NA,152,sector
+"Hotchkiss, Horace L.",Sector 23-Construction,500447892,54,collector,NA,152,sector
+"King, David H., Jr.",Sector 23-Construction,none,55,collector,NA,152,sector
+"Lehman, Arthur",Sector 23-Construction,500439393,47,collector,NA,152,sector
+"Mellon, Andrew W.",Sector 23-Construction,500356367,27,collector,NA,152,sector
+"Roberts, Marshall O.",Sector 23-Construction,500447989,56,collector,NA,152,sector
+"Rockefeller, William Avery Jr.",Sector 23-Construction,500447943,32,collector,NA,152,sector
+"Adams, Edward D.",Sector 31-33-Manufacturing,none,8,collector,NA,153,sector
+"Alger, Russel Alexander",Sector 31-33-Manufacturing,500360233,57,collector,NA,153,sector
+"Allis, Charles",Sector 31-33-Manufacturing,500447759,58,collector,NA,153,sector
+"Ames, Frederick Lothrop",Sector 31-33-Manufacturing,500360278,59,collector,NA,153,sector
+"Ames, Oliver",Sector 31-33-Manufacturing,500360281,60,collector,NA,153,sector
+"Baker, George F.",Sector 31-33-Manufacturing,500448264,37,collector,NA,153,sector
+"Berwind, Edward Julius",Sector 31-33-Manufacturing,500447709,9,collector,NA,153,sector
+"Bishop, Heber R.",Sector 31-33-Manufacturing,500446555,10,collector,NA,153,sector
+"Blumenthal, George",Sector 31-33-Manufacturing,500314546,11,collector,NA,153,sector
+"Borden, Matthew Challoner Durfee",Sector 31-33-Manufacturing,500447889,61,collector,NA,153,sector
+"Brookfield, William",Sector 31-33-Manufacturing,500447764,62,collector,NA,153,sector
+"Burrage, Albert C.",Sector 31-33-Manufacturing,500447367,1,collector,NA,153,sector
+"Clark, William (Newark)",Sector 31-33-Manufacturing,none,63,collector,NA,153,sector
+"Clark, William Andrews",Sector 31-33-Manufacturing,500448232,2,collector,NA,153,sector
+"Clarke, Thomas B.",Sector 31-33-Manufacturing,500315918,64,collector,NA,153,sector
+"Clyde, William P.",Sector 31-33-Manufacturing,500450037,13,collector,NA,153,sector
+"Cochran, Thomas",Sector 31-33-Manufacturing,none,14,collector,NA,153,sector
+"Coffin, Charles Albert",Sector 31-33-Manufacturing,500443262,39,collector,NA,153,sector
+"Curtis, William John",Sector 31-33-Manufacturing,500445510,40,collector,NA,153,sector
+"Fahnestock, Harris Charles",Sector 31-33-Manufacturing,500447606,41,collector,NA,153,sector
+"Fletcher, Isaac D.",Sector 31-33-Manufacturing,none,42,collector,NA,153,sector
+"Flower, Frederick, S.",Sector 31-33-Manufacturing,500446609,19,collector,NA,153,sector
+"Foos, Lamar",Sector 31-33-Manufacturing,500448040,65,collector,NA,153,sector
+"Frick, Henry Clay (NY)",Sector 31-33-Manufacturing,500274405,20,collector,NA,153,sector
+"Gardiner, George Schuyler",Sector 31-33-Manufacturing,500446564,66,collector,NA,153,sector
+"Gary, Elbert H.",Sector 31-33-Manufacturing,500448272,67,collector,NA,153,sector
+"Graham, Malcolm",Sector 31-33-Manufacturing,500447590,68,collector,NA,153,sector
+"Harding, J. Horace",Sector 31-33-Manufacturing,500448293,21,collector,NA,153,sector
+"Harrison, Hugh H.",Sector 31-33-Manufacturing,none,44,collector,NA,153,sector
+"Hartley, Marcellus",Sector 31-33-Manufacturing,500448059,69,collector,NA,153,sector
+"Hine, Francis L.",Sector 31-33-Manufacturing,500446709,70,collector,NA,153,sector
+"Hoagland, Joseph Christoffel",Sector 31-33-Manufacturing,500447057,71,collector,NA,153,sector
+"Hoyt, Charles Albert",Sector 31-33-Manufacturing,500446919,72,collector,NA,153,sector
+"Huntington, Collis P.",Sector 31-33-Manufacturing,500435855,73,collector,NA,153,sector
+"Huntington, Henry Edwards",Sector 31-33-Manufacturing,500435856,46,collector,NA,153,sector
+"Hyde, Clarence M.",Sector 31-33-Manufacturing,500447671,74,collector,NA,153,sector
+"Ives, Brayton C.",Sector 31-33-Manufacturing,500448271,4,collector,NA,153,sector
+"Jackson, Edwin E.",Sector 31-33-Manufacturing,500447391,75,collector,NA,153,sector
+"Jennings, Frederick Beach",Sector 31-33-Manufacturing,500448357,76,collector,NA,153,sector
+"Jennings, Walter",Sector 31-33-Manufacturing,500443623,25,collector,NA,153,sector
+"Lambert, Catholina",Sector 31-33-Manufacturing,500320993,77,collector,NA,153,sector
+"Layton, Frederick",Sector 31-33-Manufacturing,500447981,78,collector,NA,153,sector
+"Lehman, Arthur",Sector 31-33-Manufacturing,500439393,47,collector,NA,153,sector
+"Leighton, George E.",Sector 31-33-Manufacturing,500447271,79,collector,NA,153,sector
+"Mansfield, Burton",Sector 31-33-Manufacturing,500448291,48,collector,NA,153,sector
+"Mather, Samuel",Sector 31-33-Manufacturing,500447001,26,collector,NA,153,sector
+"Mellon, Andrew W.",Sector 31-33-Manufacturing,500356367,27,collector,NA,153,sector
+"Merriam, William Rush",Sector 31-33-Manufacturing,500447607,28,collector,NA,153,sector
+"Milbank, Jeremiah",Sector 31-33-Manufacturing,500446675,80,collector,NA,153,sector
+"Milliken, Seth Mellen",Sector 31-33-Manufacturing,500448314,81,collector,NA,153,sector
+"Moore, William Henry",Sector 31-33-Manufacturing,500445235,82,collector,NA,153,sector
+"Morgan, J. Pierpont",Sector 31-33-Manufacturing,500322851,49,collector,NA,153,sector
+"Obrig, Adolf",Sector 31-33-Manufacturing,500446910,83,collector,NA,153,sector
+"Oliver, George Tener",Sector 31-33-Manufacturing,500447038,84,collector,NA,153,sector
+"Oliver, Henry W.",Sector 31-33-Manufacturing,500443254,30,collector,NA,153,sector
+"Ream, Norman B.",Sector 31-33-Manufacturing,500449995,85,collector,NA,153,sector
+"Reid, Daniel G.",Sector 31-33-Manufacturing,500448274,86,collector,NA,153,sector
+"Reisinger, Hugo",Sector 31-33-Manufacturing,500448080,87,collector,NA,153,sector
+"Riker, John Lawrence",Sector 31-33-Manufacturing,500447957,31,collector,NA,153,sector
+"Rockefeller, William Avery Jr.",Sector 31-33-Manufacturing,500447943,32,collector,NA,153,sector
+"Roebling, Ferdinand W.",Sector 31-33-Manufacturing,500447566,51,collector,NA,153,sector
+"Ruppert, Jacob",Sector 31-33-Manufacturing,500446574,33,collector,NA,153,sector
+"Schwab, Charles M.",Sector 31-33-Manufacturing,500443232,88,collector,NA,153,sector
+"Seligman, Henry",Sector 31-33-Manufacturing,500448095,52,collector,NA,153,sector
+"Sloane, William Douglas",Sector 31-33-Manufacturing,500447561,89,collector,NA,153,sector
+"Smith, Theodore E.",Sector 31-33-Manufacturing,500448458,90,collector,NA,153,sector
+"Spoor, John A.",Sector 31-33-Manufacturing,500443775,91,collector,NA,153,sector
+"Stanford, Leland",Sector 31-33-Manufacturing,500326383,5,collector,NA,153,sector
+"Stern, Louis",Sector 31-33-Manufacturing,500447669,92,collector,NA,153,sector
+"Thomas, Seth Edward",Sector 31-33-Manufacturing,500443546,93,collector,NA,153,sector
+"Tuckerman, Lucius",Sector 31-33-Manufacturing,500443322,94,collector,NA,153,sector
+"Valentine, Lawson",Sector 31-33-Manufacturing,500448211,6,collector,NA,153,sector
+"Valentine, P.A.",Sector 31-33-Manufacturing,500448430,95,collector,NA,153,sector
+"Ward, Leslie Dodd",Sector 31-33-Manufacturing,500448108,53,collector,NA,153,sector
+"Warren, John Hobart",Sector 31-33-Manufacturing,500444040,96,collector,NA,153,sector
+"Widener, Peter A.B.",Sector 31-33-Manufacturing,500336869,97,collector,NA,153,sector
+"Aitken, John W.",Sector 42-Wholesale Trade,500443549,98,collector,NA,154,sector
+"Butler, Theron R.",Sector 42-Wholesale Trade,500446556,99,collector,NA,154,sector
+"Carstairs, John Haseltine",Sector 42-Wholesale Trade,500447358,100,collector,NA,154,sector
+"Cochran, Thomas",Sector 42-Wholesale Trade,none,14,collector,NA,154,sector
+"De Lima, David A.",Sector 42-Wholesale Trade,500448227,101,collector,NA,154,sector
+"Field, Marshall",Sector 42-Wholesale Trade,500444622,102,collector,NA,154,sector
+"Fiske, Josiah M.",Sector 42-Wholesale Trade,500447591,103,collector,NA,154,sector
+"Flagler, Henry Morrison",Sector 42-Wholesale Trade,500259690,18,collector,NA,154,sector
+"Hearn, George A.",Sector 42-Wholesale Trade,500447886,104,collector,NA,154,sector
+"Huntington, Collis P.",Sector 42-Wholesale Trade,500435855,73,collector,NA,154,sector
+"Huntington, Henry Edwards",Sector 42-Wholesale Trade,500435856,46,collector,NA,154,sector
+"Hyde, Henry Baldwin",Sector 42-Wholesale Trade,500448113,105,collector,NA,154,sector
+"Jennings, Frederick Beach",Sector 42-Wholesale Trade,500448357,76,collector,NA,154,sector
+"Lehman, Arthur",Sector 42-Wholesale Trade,500439393,47,collector,NA,154,sector
+"Milbank, Jeremiah",Sector 42-Wholesale Trade,500446675,80,collector,NA,154,sector
+"Milliken, Seth Mellen",Sector 42-Wholesale Trade,500448314,81,collector,NA,154,sector
+"Peavey, Frank Hutchinson",Sector 42-Wholesale Trade,500448358,106,collector,NA,154,sector
+"Peters, Samuel T.",Sector 42-Wholesale Trade,500448433,107,collector,NA,154,sector
+"Ream, Norman B.",Sector 42-Wholesale Trade,500449995,85,collector,NA,154,sector
+"Rockefeller, William Avery Jr.",Sector 42-Wholesale Trade,500447943,32,collector,NA,154,sector
+"Sabin, Charles H.",Sector 42-Wholesale Trade,500444931,108,collector,NA,154,sector
+"Sloane, William Douglas",Sector 42-Wholesale Trade,500447561,89,collector,NA,154,sector
+"Smith, Charles Stewart",Sector 42-Wholesale Trade,500447573,109,collector,NA,154,sector
+"Tenney, Charles Henry",Sector 42-Wholesale Trade,500447003,110,collector,NA,154,sector
+"Woolworth, Frank Winfield",Sector 42-Wholesale Trade,500448065,111,collector,NA,154,sector
+"Avery, Samuel Putnam",Sector 44-45-Retail Trade,500313673,112,collector,NA,155,sector
+"Carstairs, Charles Stewart",Sector 44-45-Retail Trade,500435474,113,collector,NA,155,sector
+"Clarke, Augustus W.",Sector 44-45-Retail Trade,500443259,114,collector,NA,155,sector
+"Clarke, Thomas B.",Sector 44-45-Retail Trade,500315918,64,collector,NA,155,sector
+"Crocker, Charles",Sector 44-45-Retail Trade,500447868,15,collector,NA,155,sector
+"Dun, Robert Graham",Sector 44-45-Retail Trade,500447731,115,collector,NA,155,sector
+"Field, Marshall",Sector 44-45-Retail Trade,500444622,102,collector,NA,155,sector
+"Fuller, William H.",Sector 44-45-Retail Trade,none,116,collector,NA,155,sector
+"Harbeck, Charles T.",Sector 44-45-Retail Trade,500446977,117,collector,NA,155,sector
+"Inglis, James Smith",Sector 44-45-Retail Trade,500443701,118,collector,NA,155,sector
+"Kirby, Thomas E.",Sector 44-45-Retail Trade,500443646,119,collector,NA,155,sector
+"Lehman, Arthur",Sector 44-45-Retail Trade,500439393,47,collector,NA,155,sector
+"Reinhardt, Henry",Sector 44-45-Retail Trade,500778998,120,collector,NA,155,sector
+"Stern, Louis",Sector 44-45-Retail Trade,500447669,92,collector,NA,155,sector
+"Terry, John T.",Sector 44-45-Retail Trade,500447019,121,collector,NA,155,sector
+"Willets, Howard",Sector 44-45-Retail Trade,500443260,7,collector,NA,155,sector
+"Adams, Edward D.",Sector 48-49-Transportation and Warehousing,none,8,collector,NA,156,sector
+"Alger, Russel Alexander",Sector 48-49-Transportation and Warehousing,500360233,57,collector,NA,156,sector
+"Ames, Frederick Lothrop",Sector 48-49-Transportation and Warehousing,500360278,59,collector,NA,156,sector
+"Ames, Oliver",Sector 48-49-Transportation and Warehousing,500360281,60,collector,NA,156,sector
+"Baker, George F.",Sector 48-49-Transportation and Warehousing,500448264,37,collector,NA,156,sector
+"Berwind, Edward Julius",Sector 48-49-Transportation and Warehousing,500447709,9,collector,NA,156,sector
+"Bishop, Heber R.",Sector 48-49-Transportation and Warehousing,500446555,10,collector,NA,156,sector
+"Bostwick, Jabez A.",Sector 48-49-Transportation and Warehousing,500448241,12,collector,NA,156,sector
+"Butler, Theron R.",Sector 48-49-Transportation and Warehousing,500446556,99,collector,NA,156,sector
+"Clyde, William P.",Sector 48-49-Transportation and Warehousing,500450037,13,collector,NA,156,sector
+"Cochran, Thomas",Sector 48-49-Transportation and Warehousing,none,14,collector,NA,156,sector
+"Crocker, Charles",Sector 48-49-Transportation and Warehousing,500447868,15,collector,NA,156,sector
+"Curtis, George N.",Sector 48-49-Transportation and Warehousing,500448027,122,collector,NA,156,sector
+"Curtis, William John",Sector 48-49-Transportation and Warehousing,500445510,40,collector,NA,156,sector
+"De Lima, David A.",Sector 48-49-Transportation and Warehousing,500448227,101,collector,NA,156,sector
+"Ellsworth, James W.",Sector 48-49-Transportation and Warehousing,500443239,17,collector,NA,156,sector
+"Fahnestock, Harris Charles",Sector 48-49-Transportation and Warehousing,500447606,41,collector,NA,156,sector
+"Flagler, Henry Morrison",Sector 48-49-Transportation and Warehousing,500259690,18,collector,NA,156,sector
+"Flower, Frederick, S.",Sector 48-49-Transportation and Warehousing,500446609,19,collector,NA,156,sector
+"Gould, Frank Jay",Sector 48-49-Transportation and Warehousing,500448359,43,collector,NA,156,sector
+"Gould, George Jay I",Sector 48-49-Transportation and Warehousing,500447898,123,collector,NA,156,sector
+"Harding, J. Horace",Sector 48-49-Transportation and Warehousing,500448293,21,collector,NA,156,sector
+"Harkness, Charles W.",Sector 48-49-Transportation and Warehousing,500443497,22,collector,NA,156,sector
+"Harrison, Hugh H.",Sector 48-49-Transportation and Warehousing,none,44,collector,NA,156,sector
+"Hill, James N.",Sector 48-49-Transportation and Warehousing,500449909,24,collector,NA,156,sector
+"Holmes, John Grier",Sector 48-49-Transportation and Warehousing,500443514,124,collector,NA,156,sector
+"Huntington, Collis P.",Sector 48-49-Transportation and Warehousing,500435855,73,collector,NA,156,sector
+"Huntington, Henry Edwards",Sector 48-49-Transportation and Warehousing,500435856,46,collector,NA,156,sector
+"Ives, Brayton C.",Sector 48-49-Transportation and Warehousing,500448271,4,collector,NA,156,sector
+"Jennings, Frederick Beach",Sector 48-49-Transportation and Warehousing,500448357,76,collector,NA,156,sector
+"King, David H., Jr.",Sector 48-49-Transportation and Warehousing,none,55,collector,NA,156,sector
+"Lawrence, Cyrus I.",Sector 48-49-Transportation and Warehousing,500447713,125,collector,NA,156,sector
+"Lehman, Arthur",Sector 48-49-Transportation and Warehousing,500439393,47,collector,NA,156,sector
+"Leighton, George E.",Sector 48-49-Transportation and Warehousing,500447271,79,collector,NA,156,sector
+"McGarrah, G. W.",Sector 48-49-Transportation and Warehousing,500449846,126,collector,NA,156,sector
+"Mellon, Andrew W.",Sector 48-49-Transportation and Warehousing,500356367,27,collector,NA,156,sector
+"Milbank, Jeremiah",Sector 48-49-Transportation and Warehousing,500446675,80,collector,NA,156,sector
+"Mills, Darius Ogden",Sector 48-49-Transportation and Warehousing,500447907,29,collector,NA,156,sector
+"Moore, William Henry",Sector 48-49-Transportation and Warehousing,500445235,82,collector,NA,156,sector
+"Morgan, J. Pierpont",Sector 48-49-Transportation and Warehousing,500322851,49,collector,NA,156,sector
+"Oliver, Henry W.",Sector 48-49-Transportation and Warehousing,500443254,30,collector,NA,156,sector
+"Peavey, Frank Hutchinson",Sector 48-49-Transportation and Warehousing,500448358,106,collector,NA,156,sector
+"Raynor, James A.",Sector 48-49-Transportation and Warehousing,500447938,127,collector,NA,156,sector
+"Ream, Norman B.",Sector 48-49-Transportation and Warehousing,500449995,85,collector,NA,156,sector
+"Reid, Daniel G.",Sector 48-49-Transportation and Warehousing,500448274,86,collector,NA,156,sector
+"Riker, John Lawrence",Sector 48-49-Transportation and Warehousing,500447957,31,collector,NA,156,sector
+"Roberts, Marshall O.",Sector 48-49-Transportation and Warehousing,500447989,56,collector,NA,156,sector
+"Rockefeller, William Avery Jr.",Sector 48-49-Transportation and Warehousing,500447943,32,collector,NA,156,sector
+"Roebling, Ferdinand W.",Sector 48-49-Transportation and Warehousing,500447566,51,collector,NA,156,sector
+"Salter, Thomas P.",Sector 48-49-Transportation and Warehousing,500446561,128,collector,NA,156,sector
+"Schiff, Jacob Henry",Sector 48-49-Transportation and Warehousing,500448262,129,collector,NA,156,sector
+"Seligman, Henry",Sector 48-49-Transportation and Warehousing,500448095,52,collector,NA,156,sector
+"Sloane, William Douglas",Sector 48-49-Transportation and Warehousing,500447561,89,collector,NA,156,sector
+"Stanford, Leland",Sector 48-49-Transportation and Warehousing,500326383,5,collector,NA,156,sector
+"Terry, John T.",Sector 48-49-Transportation and Warehousing,500447019,121,collector,NA,156,sector
+"Thorne, Samuel P.",Sector 48-49-Transportation and Warehousing,500447668,36,collector,NA,156,sector
+"Valentine, P.A.",Sector 48-49-Transportation and Warehousing,500448430,95,collector,NA,156,sector
+"Vanderbilt, Cornelius II",Sector 48-49-Transportation and Warehousing,500447578,130,collector,NA,156,sector
+"Ward, Leslie Dodd",Sector 48-49-Transportation and Warehousing,500448108,53,collector,NA,156,sector
+"Warren, John Hobart",Sector 48-49-Transportation and Warehousing,500444040,96,collector,NA,156,sector
+"Widener, Peter A.B.",Sector 48-49-Transportation and Warehousing,500336869,97,collector,NA,156,sector
+"Andrews, William Loring",Sector 51-Information,500360341,131,collector,NA,157,sector
+"Astor, John Jacob (III)",Sector 51-Information,500435405,132,collector,NA,157,sector
+"Baker, George F.",Sector 51-Information,500448264,37,collector,NA,157,sector
+"Clark, William Andrews",Sector 51-Information,500448232,2,collector,NA,157,sector
+"Curtis, William John",Sector 51-Information,500445510,40,collector,NA,157,sector
+"Dick, Harris Brisbane",Sector 51-Information,500447692,133,collector,NA,157,sector
+"Ellsworth, James W.",Sector 51-Information,500443239,17,collector,NA,157,sector
+"Fahnestock, Harris Charles",Sector 51-Information,500447606,41,collector,NA,157,sector
+"Gould, Frank Jay",Sector 51-Information,500448359,43,collector,NA,157,sector
+"Gould, George Jay I",Sector 51-Information,500447898,123,collector,NA,157,sector
+"Harbeck, Charles T.",Sector 51-Information,500446977,117,collector,NA,157,sector
+"Harper, Fletcher, Jr.",Sector 51-Information,500447663,134,collector,NA,157,sector
+"Harper, Joseph Abner",Sector 51-Information,500447944,135,collector,NA,157,sector
+"Hearst, William Randolph",Sector 51-Information,500213593,3,collector,NA,157,sector
+"Hotchkiss, Horace L.",Sector 51-Information,500447892,54,collector,NA,157,sector
+"Lehmaier, Louis A.",Sector 51-Information,500443489,136,collector,NA,157,sector
+"Lehman, Arthur",Sector 51-Information,500439393,47,collector,NA,157,sector
+"Moore, William Henry",Sector 51-Information,500445235,82,collector,NA,157,sector
+"Oliver, George Tener",Sector 51-Information,500447038,84,collector,NA,157,sector
+"Oliver, Henry W.",Sector 51-Information,500443254,30,collector,NA,157,sector
+"Riker, John Lawrence",Sector 51-Information,500447957,31,collector,NA,157,sector
+"Roberts, Marshall O.",Sector 51-Information,500447989,56,collector,NA,157,sector
+"Schiff, Jacob Henry",Sector 51-Information,500448262,129,collector,NA,157,sector
+"Sloane, William Douglas",Sector 51-Information,500447561,89,collector,NA,157,sector
+"Terry, John T.",Sector 51-Information,500447019,121,collector,NA,157,sector
+"Tousey, Sinclair",Sector 51-Information,500443864,137,collector,NA,157,sector
+"Valentine, Lawson",Sector 51-Information,500448211,6,collector,NA,157,sector
+"Adams, Edward D.",Sector 52-Finance and Insurance,none,8,collector,NA,158,sector
+"Aitken, John W.",Sector 52-Finance and Insurance,500443549,98,collector,NA,158,sector
+"Allis, Charles",Sector 52-Finance and Insurance,500447759,58,collector,NA,158,sector
+"Ames, Frederick Lothrop",Sector 52-Finance and Insurance,500360278,59,collector,NA,158,sector
+"Astor, John Jacob (III)",Sector 52-Finance and Insurance,500435405,132,collector,NA,158,sector
+"Baker, George F.",Sector 52-Finance and Insurance,500448264,37,collector,NA,158,sector
+"Berwind, Edward Julius",Sector 52-Finance and Insurance,500447709,9,collector,NA,158,sector
+"Bishop, Heber R.",Sector 52-Finance and Insurance,500446555,10,collector,NA,158,sector
+"Blumenthal, George",Sector 52-Finance and Insurance,500314546,11,collector,NA,158,sector
+"Borden, Matthew Challoner Durfee",Sector 52-Finance and Insurance,500447889,61,collector,NA,158,sector
+"Brookfield, William",Sector 52-Finance and Insurance,500447764,62,collector,NA,158,sector
+"Clark, William Andrews",Sector 52-Finance and Insurance,500448232,2,collector,NA,158,sector
+"Closson, James T.",Sector 52-Finance and Insurance,500446630,138,collector,NA,158,sector
+"Cochran, Thomas",Sector 52-Finance and Insurance,none,14,collector,NA,158,sector
+"Connor, Washington Everett",Sector 52-Finance and Insurance,500443312,139,collector,NA,158,sector
+"Cook, Henry H.",Sector 52-Finance and Insurance,none,140,collector,NA,158,sector
+"Crocker, Charles",Sector 52-Finance and Insurance,500447868,15,collector,NA,158,sector
+"Davis, Theodore M.",Sector 52-Finance and Insurance,500443803,16,collector,NA,158,sector
+"Ellsworth, James W.",Sector 52-Finance and Insurance,500443239,17,collector,NA,158,sector
+"Fahnestock, Harris Charles",Sector 52-Finance and Insurance,500447606,41,collector,NA,158,sector
+"Fiske, Josiah M.",Sector 52-Finance and Insurance,500447591,103,collector,NA,158,sector
+"Fletcher, Isaac D.",Sector 52-Finance and Insurance,none,42,collector,NA,158,sector
+"Flower, Frederick, S.",Sector 52-Finance and Insurance,500446609,19,collector,NA,158,sector
+"Frick, Henry Clay (NY)",Sector 52-Finance and Insurance,500274405,20,collector,NA,158,sector
+"Gary, Elbert H.",Sector 52-Finance and Insurance,500448272,67,collector,NA,158,sector
+"Gould, Frank Jay",Sector 52-Finance and Insurance,500448359,43,collector,NA,158,sector
+"Gould, George Jay I",Sector 52-Finance and Insurance,500447898,123,collector,NA,158,sector
+"Harding, J. Horace",Sector 52-Finance and Insurance,500448293,21,collector,NA,158,sector
+"Harkness, Charles W.",Sector 52-Finance and Insurance,500443497,22,collector,NA,158,sector
+"Hartley, Marcellus",Sector 52-Finance and Insurance,500448059,69,collector,NA,158,sector
+"Heye, Dr. George G.",Sector 52-Finance and Insurance,500372637,23,collector,NA,158,sector
+"Hill, James N.",Sector 52-Finance and Insurance,500449909,24,collector,NA,158,sector
+"Hine, Francis L.",Sector 52-Finance and Insurance,500446709,70,collector,NA,158,sector
+"Holmes, John Grier",Sector 52-Finance and Insurance,500443514,124,collector,NA,158,sector
+"Horton, Henry Lawrence",Sector 52-Finance and Insurance,500443282,141,collector,NA,158,sector
+"Hotchkiss, Horace L.",Sector 52-Finance and Insurance,500447892,54,collector,NA,158,sector
+"Hoyt, Charles Albert",Sector 52-Finance and Insurance,500446919,72,collector,NA,158,sector
+"Humphreys, Dr. Alexander C.",Sector 52-Finance and Insurance,none,45,collector,NA,158,sector
+"Hyde, Henry Baldwin",Sector 52-Finance and Insurance,500448113,105,collector,NA,158,sector
+"Ives, Brayton C.",Sector 52-Finance and Insurance,500448271,4,collector,NA,158,sector
+"Jackson, Edwin E.",Sector 52-Finance and Insurance,500447391,75,collector,NA,158,sector
+"Jennings, Frederick Beach",Sector 52-Finance and Insurance,500448357,76,collector,NA,158,sector
+"Jennings, Walter",Sector 52-Finance and Insurance,500443623,25,collector,NA,158,sector
+"Lambert, Catholina",Sector 52-Finance and Insurance,500320993,77,collector,NA,158,sector
+"Lawrence, Cyrus I.",Sector 52-Finance and Insurance,500447713,125,collector,NA,158,sector
+"Lawrence, Frank R.",Sector 52-Finance and Insurance,500447645,142,collector,NA,158,sector
+"Lehman, Arthur",Sector 52-Finance and Insurance,500439393,47,collector,NA,158,sector
+"Leighton, George E.",Sector 52-Finance and Insurance,500447271,79,collector,NA,158,sector
+"Mansfield, Burton",Sector 52-Finance and Insurance,500448291,48,collector,NA,158,sector
+"Mather, Samuel",Sector 52-Finance and Insurance,500447001,26,collector,NA,158,sector
+"McGarrah, G. W.",Sector 52-Finance and Insurance,500449846,126,collector,NA,158,sector
+"Mellon, Andrew W.",Sector 52-Finance and Insurance,500356367,27,collector,NA,158,sector
+"Merriam, William Rush",Sector 52-Finance and Insurance,500447607,28,collector,NA,158,sector
+"Milliken, Seth Mellen",Sector 52-Finance and Insurance,500448314,81,collector,NA,158,sector
+"Mills, Darius Ogden",Sector 52-Finance and Insurance,500447907,29,collector,NA,158,sector
+"Moore, William Henry",Sector 52-Finance and Insurance,500445235,82,collector,NA,158,sector
+"Morgan, J. Pierpont",Sector 52-Finance and Insurance,500322851,49,collector,NA,158,sector
+"Obrig, Adolf",Sector 52-Finance and Insurance,500446910,83,collector,NA,158,sector
+"Oliver, Henry W.",Sector 52-Finance and Insurance,500443254,30,collector,NA,158,sector
+"Peavey, Frank Hutchinson",Sector 52-Finance and Insurance,500448358,106,collector,NA,158,sector
+"Penfold, Edmund",Sector 52-Finance and Insurance,500443893,50,collector,NA,158,sector
+"Peters, Samuel T.",Sector 52-Finance and Insurance,500448433,107,collector,NA,158,sector
+"Ream, Norman B.",Sector 52-Finance and Insurance,500449995,85,collector,NA,158,sector
+"Reid, Daniel G.",Sector 52-Finance and Insurance,500448274,86,collector,NA,158,sector
+"Riker, John Lawrence",Sector 52-Finance and Insurance,500447957,31,collector,NA,158,sector
+"Roberts, Marshall O.",Sector 52-Finance and Insurance,500447989,56,collector,NA,158,sector
+"Rockefeller, William Avery Jr.",Sector 52-Finance and Insurance,500447943,32,collector,NA,158,sector
+"Roebling, Ferdinand W.",Sector 52-Finance and Insurance,500447566,51,collector,NA,158,sector
+"Ruppert, Jacob",Sector 52-Finance and Insurance,500446574,33,collector,NA,158,sector
+"Sabin, Charles H.",Sector 52-Finance and Insurance,500444931,108,collector,NA,158,sector
+"Schiff, Jacob Henry",Sector 52-Finance and Insurance,500448262,129,collector,NA,158,sector
+"Schwab, Charles M.",Sector 52-Finance and Insurance,500443232,88,collector,NA,158,sector
+"Seligman, Henry",Sector 52-Finance and Insurance,500448095,52,collector,NA,158,sector
+"Seligman, Isaac Newton",Sector 52-Finance and Insurance,500443320,143,collector,NA,158,sector
+"Shepherd, James G.",Sector 52-Finance and Insurance,500447386,34,collector,NA,158,sector
+"Sloane, William Douglas",Sector 52-Finance and Insurance,500447561,89,collector,NA,158,sector
+"Smith, Charles Stewart",Sector 52-Finance and Insurance,500447573,109,collector,NA,158,sector
+"Smith, Theodore E.",Sector 52-Finance and Insurance,500448458,90,collector,NA,158,sector
+"Spoor, John A.",Sector 52-Finance and Insurance,500443775,91,collector,NA,158,sector
+"Stanford, Leland",Sector 52-Finance and Insurance,500326383,5,collector,NA,158,sector
+"Stern, Louis",Sector 52-Finance and Insurance,500447669,92,collector,NA,158,sector
+"Stewart, Lispenard",Sector 52-Finance and Insurance,500448424,144,collector,NA,158,sector
+"Stillman, James",Sector 52-Finance and Insurance,500445305,35,collector,NA,158,sector
+"Tenney, Charles Henry",Sector 52-Finance and Insurance,500447003,110,collector,NA,158,sector
+"Terry, John T.",Sector 52-Finance and Insurance,500447019,121,collector,NA,158,sector
+"Thorne, Samuel P.",Sector 52-Finance and Insurance,500447668,36,collector,NA,158,sector
+"Tousey, Sinclair",Sector 52-Finance and Insurance,500443864,137,collector,NA,158,sector
+"Valentine, P.A.",Sector 52-Finance and Insurance,500448430,95,collector,NA,158,sector
+"Vanderbilt, Cornelius II",Sector 52-Finance and Insurance,500447578,130,collector,NA,158,sector
+"Ward, Leslie Dodd",Sector 52-Finance and Insurance,500448108,53,collector,NA,158,sector
+"Warren, John Hobart",Sector 52-Finance and Insurance,500444040,96,collector,NA,158,sector
+"Woolworth, Frank Winfield",Sector 52-Finance and Insurance,500448065,111,collector,NA,158,sector
+"Berwind, Edward Julius",Sector 53-Real Estate and Rental and Leasing,500447709,9,collector,NA,159,sector
+"Clyde, William P.",Sector 53-Real Estate and Rental and Leasing,500450037,13,collector,NA,159,sector
+"Gary, Elbert H.",Sector 53-Real Estate and Rental and Leasing,500448272,67,collector,NA,159,sector
+"Hill, James N.",Sector 53-Real Estate and Rental and Leasing,500449909,24,collector,NA,159,sector
+"Huntington, Collis P.",Sector 53-Real Estate and Rental and Leasing,500435855,73,collector,NA,159,sector
+"Huntington, Henry Edwards",Sector 53-Real Estate and Rental and Leasing,500435856,46,collector,NA,159,sector
+"Ives, Brayton C.",Sector 53-Real Estate and Rental and Leasing,500448271,4,collector,NA,159,sector
+"Jackson, Edwin E.",Sector 53-Real Estate and Rental and Leasing,500447391,75,collector,NA,159,sector
+"Smith, Charles Stewart",Sector 53-Real Estate and Rental and Leasing,500447573,109,collector,NA,159,sector
+"Stern, Louis",Sector 53-Real Estate and Rental and Leasing,500447669,92,collector,NA,159,sector
+"Stewart, Lispenard",Sector 53-Real Estate and Rental and Leasing,500448424,144,collector,NA,159,sector
+"Valentine, P.A.",Sector 53-Real Estate and Rental and Leasing,500448430,95,collector,NA,159,sector
+"Willets, Howard",Sector 53-Real Estate and Rental and Leasing,500443260,7,collector,NA,159,sector
+"Woolworth, Frank Winfield",Sector 53-Real Estate and Rental and Leasing,500448065,111,collector,NA,159,sector
+"Bangs, F.N.","Sector 54-Professional, Scientific, and Technical Services",500447996,145,collector,NA,160,sector
+"Curtis, William John","Sector 54-Professional, Scientific, and Technical Services",500445510,40,collector,NA,160,sector
+"Davis, Theodore M.","Sector 54-Professional, Scientific, and Technical Services",500443803,16,collector,NA,160,sector
+"Foos, Lamar","Sector 54-Professional, Scientific, and Technical Services",500448040,65,collector,NA,160,sector
+"Fuller, William H.","Sector 54-Professional, Scientific, and Technical Services",none,116,collector,NA,160,sector
+"Harkness, Charles W.","Sector 54-Professional, Scientific, and Technical Services",500443497,22,collector,NA,160,sector
+"Hyde, Clarence M.","Sector 54-Professional, Scientific, and Technical Services",500447671,74,collector,NA,160,sector
+"Jackson, Edwin E.","Sector 54-Professional, Scientific, and Technical Services",500447391,75,collector,NA,160,sector
+"Jennings, Frederick Beach","Sector 54-Professional, Scientific, and Technical Services",500448357,76,collector,NA,160,sector
+"Lawrence, Frank R.","Sector 54-Professional, Scientific, and Technical Services",500447645,142,collector,NA,160,sector
+"Leighton, George E.","Sector 54-Professional, Scientific, and Technical Services",500447271,79,collector,NA,160,sector
+"Mansfield, Burton","Sector 54-Professional, Scientific, and Technical Services",500448291,48,collector,NA,160,sector
+"Oliver, George Tener","Sector 54-Professional, Scientific, and Technical Services",500447038,84,collector,NA,160,sector
+"Stanford, Leland","Sector 54-Professional, Scientific, and Technical Services",500326383,5,collector,NA,160,sector
+"Stewart, Lispenard","Sector 54-Professional, Scientific, and Technical Services",500448424,144,collector,NA,160,sector
+"Dun, Robert Graham",Sector 56-Administrative and Support and Waste Management and Remediation Services,500447731,115,collector,NA,161,sector
+"Hartley, Marcellus",Sector 56-Administrative and Support and Waste Management and Remediation Services,500448059,69,collector,NA,161,sector
+"Fry, John Hemming",Sector 61-Educational Services,500083263,146,collector,NA,162,sector
+"Humphreys, Dr. Alexander C.",Sector 61-Educational Services,none,45,collector,NA,162,sector
+"Milliken, Seth Mellen",Sector 61-Educational Services,500448314,81,collector,NA,162,sector
+"Aitken, John W.",Sector 62-Health Care and Social Assistance,500443549,98,collector,NA,163,sector
+"Jennings, Walter",Sector 62-Health Care and Social Assistance,500443623,25,collector,NA,163,sector
+"Mather, Samuel",Sector 62-Health Care and Social Assistance,500447001,26,collector,NA,163,sector
+"Oliver, Henry W.",Sector 62-Health Care and Social Assistance,500443254,30,collector,NA,163,sector
+"Seligman, Isaac Newton",Sector 62-Health Care and Social Assistance,500443320,143,collector,NA,163,sector
+"Sloane, William Douglas",Sector 62-Health Care and Social Assistance,500447561,89,collector,NA,163,sector
+"Smith, Charles Stewart",Sector 62-Health Care and Social Assistance,500447573,109,collector,NA,163,sector
+"Ward, Leslie Dodd",Sector 62-Health Care and Social Assistance,500448108,53,collector,NA,163,sector
+"Avery, Samuel Putnam","Sector 71-Arts, Entertainment, and Recreation",500313673,112,collector,NA,164,sector
+"Davis, Theodore M.","Sector 71-Arts, Entertainment, and Recreation",500443803,16,collector,NA,164,sector
+"Fry, John Hemming","Sector 71-Arts, Entertainment, and Recreation",500083263,146,collector,NA,164,sector
+"Heye, Dr. George G.","Sector 71-Arts, Entertainment, and Recreation",500372637,23,collector,NA,164,sector
+"King, David H., Jr.","Sector 71-Arts, Entertainment, and Recreation",none,55,collector,NA,164,sector
+"Reinhardt, Henry","Sector 71-Arts, Entertainment, and Recreation",500778998,120,collector,NA,164,sector
+"Ruppert, Jacob","Sector 71-Arts, Entertainment, and Recreation",500446574,33,collector,NA,164,sector
+"Stransky, Josef","Sector 71-Arts, Entertainment, and Recreation",500439445,147,collector,NA,164,sector
+"Flagler, Henry Morrison",Sector 72-Accommodation and Food Services,500259690,18,collector,NA,165,sector
+"Gould, Frank Jay",Sector 72-Accommodation and Food Services,500448359,43,collector,NA,165,sector
+"Mills, Darius Ogden",Sector 72-Accommodation and Food Services,500447907,29,collector,NA,165,sector
+"Alger, Russel Alexander",Sector 92-Public Administration,500360233,57,collector,NA,166,sector
+"Ames, Oliver",Sector 92-Public Administration,500360281,60,collector,NA,166,sector
+"Crocker, Charles",Sector 92-Public Administration,500447868,15,collector,NA,166,sector
+"Davenport, Ira",Sector 92-Public Administration,500446683,148,collector,NA,166,sector
+"De Lima, David A.",Sector 92-Public Administration,500448227,101,collector,NA,166,sector
+"Gardiner, George Schuyler",Sector 92-Public Administration,500446564,66,collector,NA,166,sector
+"Hearst, William Randolph",Sector 92-Public Administration,500213593,3,collector,NA,166,sector
+"Mellon, Andrew W.",Sector 92-Public Administration,500356367,27,collector,NA,166,sector
+"Merriam, William Rush",Sector 92-Public Administration,500447607,28,collector,NA,166,sector
+"Oliver, George Tener",Sector 92-Public Administration,500447038,84,collector,NA,166,sector
+"Ruppert, Jacob",Sector 92-Public Administration,500446574,33,collector,NA,166,sector
+"Salter, Thomas P.",Sector 92-Public Administration,500446561,128,collector,NA,166,sector
+"Stanford, Leland",Sector 92-Public Administration,500326383,5,collector,NA,166,sector
+"Stewart, Lispenard",Sector 92-Public Administration,500448424,144,collector,NA,166,sector
+"Widener, Peter A.B.",Sector 92-Public Administration,500336869,97,collector,NA,166,sector
+"Blumenthal, George",Lotos Club,500314546,11,collector,NA,167,group
+"Brookfield, William",Lotos Club,500447764,62,collector,NA,167,group
+"Burrage, Albert C.",Lotos Club,500447367,1,collector,NA,167,group
+"Clark, William Andrews",Lotos Club,500448232,2,collector,NA,167,group
+"Clarke, Augustus W.",Lotos Club,500443259,114,collector,NA,167,group
+"Connor, Washington Everett",Lotos Club,500443312,139,collector,NA,167,group
+"De Lima, David A.",Lotos Club,500448227,101,collector,NA,167,group
+"Fletcher, Isaac D.",Lotos Club,none,42,collector,NA,167,group
+"Flower, Frederick, S.",Lotos Club,500446609,19,collector,NA,167,group
+"Fry, John Hemming",Lotos Club,500083263,146,collector,NA,167,group
+"Gardiner, George Schuyler",Lotos Club,500446564,66,collector,NA,167,group
+"Harrison, Hugh H.",Lotos Club,none,44,collector,NA,167,group
+"Hearn, George A.",Lotos Club,500447886,104,collector,NA,167,group
+"Hearst, William Randolph",Lotos Club,500213593,3,collector,NA,167,group
+"Heye, Dr. George G.",Lotos Club,500372637,23,collector,NA,167,group
+"Humphreys, Dr. Alexander C.",Lotos Club,none,45,collector,NA,167,group
+"Lambert, Catholina",Lotos Club,500320993,77,collector,NA,167,group
+"Lawrence, Frank R.",Lotos Club,500447645,142,collector,NA,167,group
+"Lehmaier, Louis A.",Lotos Club,500443489,136,collector,NA,167,group
+"Lehman, Arthur",Lotos Club,500439393,47,collector,NA,167,group
+"Mansfield, Burton",Lotos Club,500448291,48,collector,NA,167,group
+"Merriam, William Rush",Lotos Club,500447607,28,collector,NA,167,group
+"Obrig, Adolf",Lotos Club,500446910,83,collector,NA,167,group
+"Reinhardt, Henry",Lotos Club,500778998,120,collector,NA,167,group
+"Reisinger, Hugo",Lotos Club,500448080,87,collector,NA,167,group
+"Ruppert, Jacob",Lotos Club,500446574,33,collector,NA,167,group
+"Seligman, Henry",Lotos Club,500448095,52,collector,NA,167,group
+"Seligman, Isaac Newton",Lotos Club,500443320,143,collector,NA,167,group
+"Shepherd, James G.",Lotos Club,500447386,34,collector,NA,167,group
+"Stern, Louis",Lotos Club,500447669,92,collector,NA,167,group
+"Stransky, Josef",Lotos Club,500439445,147,collector,NA,167,group
+"Tenney, Charles Henry",Lotos Club,500447003,110,collector,NA,167,group
+"Valentine, P.A.",Lotos Club,500448430,95,collector,NA,167,group
+"Widener, Peter A.B.",Lotos Club,500336869,97,collector,NA,167,group
+"Woolworth, Frank Winfield",Lotos Club,500448065,111,collector,NA,167,group
+"Adams, Edward D.",Union League Club,none,8,collector,NA,168,group
+"Aitken, John W.",Union League Club,500443549,98,collector,NA,168,group
+"Alger, Russel Alexander",Union League Club,500360233,57,collector,NA,168,group
+"Allis, Charles",Union League Club,500447759,58,collector,NA,168,group
+"Ames, Frederick Lothrop",Union League Club,500360278,59,collector,NA,168,group
+"Ames, Oliver",Union League Club,500360281,60,collector,NA,168,group
+"Andrews, William Loring",Union League Club,500360341,131,collector,NA,168,group
+"Astor, John Jacob (III)",Union League Club,500435405,132,collector,NA,168,group
+"Avery, Samuel Putnam",Union League Club,500313673,112,collector,NA,168,group
+"Baker, George F.",Union League Club,500448264,37,collector,NA,168,group
+"Bakewell, Allen Campbell",Union League Club,500446711,38,collector,NA,168,group
+"Bangs, F.N.",Union League Club,500447996,145,collector,NA,168,group
+"Bishop, Heber R.",Union League Club,500446555,10,collector,NA,168,group
+"Borden, Matthew Challoner Durfee",Union League Club,500447889,61,collector,NA,168,group
+"Bostwick, Jabez A.",Union League Club,500448241,12,collector,NA,168,group
+"Brookfield, William",Union League Club,500447764,62,collector,NA,168,group
+"Burrage, Albert C.",Union League Club,500447367,1,collector,NA,168,group
+"Butler, Theron R.",Union League Club,500446556,99,collector,NA,168,group
+"Carstairs, Charles Stewart",Union League Club,500435474,113,collector,NA,168,group
+"Carstairs, John Haseltine",Union League Club,500447358,100,collector,NA,168,group
+"Clark, William (Newark)",Union League Club,none,63,collector,NA,168,group
+"Clarke, Thomas B.",Union League Club,500315918,64,collector,NA,168,group
+"Closson, James T.",Union League Club,500446630,138,collector,NA,168,group
+"Clyde, William P.",Union League Club,500450037,13,collector,NA,168,group
+"Cochran, Thomas",Union League Club,none,14,collector,NA,168,group
+"Coffin, Charles Albert",Union League Club,500443262,39,collector,NA,168,group
+"Connor, Washington Everett",Union League Club,500443312,139,collector,NA,168,group
+"Cook, Henry H.",Union League Club,none,140,collector,NA,168,group
+"Crocker, Charles",Union League Club,500447868,15,collector,NA,168,group
+"Curtis, George N.",Union League Club,500448027,122,collector,NA,168,group
+"Curtis, William John",Union League Club,500445510,40,collector,NA,168,group
+"Davenport, Ira",Union League Club,500446683,148,collector,NA,168,group
+"Davis, Theodore M.",Union League Club,500443803,16,collector,NA,168,group
+"Dick, Harris Brisbane",Union League Club,500447692,133,collector,NA,168,group
+"Dun, Robert Graham",Union League Club,500447731,115,collector,NA,168,group
+"Ellsworth, James W.",Union League Club,500443239,17,collector,NA,168,group
+"Fahnestock, Harris Charles",Union League Club,500447606,41,collector,NA,168,group
+"Field, Marshall",Union League Club,500444622,102,collector,NA,168,group
+"Fiske, Josiah M.",Union League Club,500447591,103,collector,NA,168,group
+"Flagler, Henry Morrison",Union League Club,500259690,18,collector,NA,168,group
+"Fletcher, Isaac D.",Union League Club,none,42,collector,NA,168,group
+"Foos, Lamar",Union League Club,500448040,65,collector,NA,168,group
+"Frick, Henry Clay (NY)",Union League Club,500274405,20,collector,NA,168,group
+"Fuller, William H.",Union League Club,none,116,collector,NA,168,group
+"Gould, Frank Jay",Union League Club,500448359,43,collector,NA,168,group
+"Graham, Malcolm",Union League Club,500447590,68,collector,NA,168,group
+"Harbeck, Charles T.",Union League Club,500446977,117,collector,NA,168,group
+"Harding, J. Horace",Union League Club,500448293,21,collector,NA,168,group
+"Harper, Fletcher, Jr.",Union League Club,500447663,134,collector,NA,168,group
+"Harper, Joseph Abner",Union League Club,500447944,135,collector,NA,168,group
+"Hartley, Marcellus",Union League Club,500448059,69,collector,NA,168,group
+"Hill, James N.",Union League Club,500449909,24,collector,NA,168,group
+"Hine, Francis L.",Union League Club,500446709,70,collector,NA,168,group
+"Hoagland, Joseph Christoffel",Union League Club,500447057,71,collector,NA,168,group
+"Holmes, John Grier",Union League Club,500443514,124,collector,NA,168,group
+"Horton, Henry Lawrence",Union League Club,500443282,141,collector,NA,168,group
+"Hotchkiss, Horace L.",Union League Club,500447892,54,collector,NA,168,group
+"Hoyt, Charles Albert",Union League Club,500446919,72,collector,NA,168,group
+"Humphreys, Dr. Alexander C.",Union League Club,none,45,collector,NA,168,group
+"Huntington, Collis P.",Union League Club,500435855,73,collector,NA,168,group
+"Huntington, Henry Edwards",Union League Club,500435856,46,collector,NA,168,group
+"Hyde, Clarence M.",Union League Club,500447671,74,collector,NA,168,group
+"Hyde, Henry Baldwin",Union League Club,500448113,105,collector,NA,168,group
+"Inglis, James Smith",Union League Club,500443701,118,collector,NA,168,group
+"Ives, Brayton C.",Union League Club,500448271,4,collector,NA,168,group
+"Jackson, Edwin E.",Union League Club,500447391,75,collector,NA,168,group
+"Jennings, Frederick Beach",Union League Club,500448357,76,collector,NA,168,group
+"King, David H., Jr.",Union League Club,none,55,collector,NA,168,group
+"Kirby, Thomas E.",Union League Club,500443646,119,collector,NA,168,group
+"Lambert, Catholina",Union League Club,500320993,77,collector,NA,168,group
+"Lawrence, Cyrus I.",Union League Club,500447713,125,collector,NA,168,group
+"Layton, Frederick",Union League Club,500447981,78,collector,NA,168,group
+"Leighton, George E.",Union League Club,500447271,79,collector,NA,168,group
+"Mather, Samuel",Union League Club,500447001,26,collector,NA,168,group
+"McGarrah, G. W.",Union League Club,500449846,126,collector,NA,168,group
+"Mellon, Andrew W.",Union League Club,500356367,27,collector,NA,168,group
+"Milbank, Jeremiah",Union League Club,500446675,80,collector,NA,168,group
+"Milliken, Seth Mellen",Union League Club,500448314,81,collector,NA,168,group
+"Mills, Darius Ogden",Union League Club,500447907,29,collector,NA,168,group
+"Moore, William Henry",Union League Club,500445235,82,collector,NA,168,group
+"Morgan, J. Pierpont",Union League Club,500322851,49,collector,NA,168,group
+"Oliver, George Tener",Union League Club,500447038,84,collector,NA,168,group
+"Oliver, Henry W.",Union League Club,500443254,30,collector,NA,168,group
+"Peavey, Frank Hutchinson",Union League Club,500448358,106,collector,NA,168,group
+"Penfold, Edmund",Union League Club,500443893,50,collector,NA,168,group
+"Peters, Samuel T.",Union League Club,500448433,107,collector,NA,168,group
+"Raynor, James A.",Union League Club,500447938,127,collector,NA,168,group
+"Riker, John Lawrence",Union League Club,500447957,31,collector,NA,168,group
+"Roberts, Marshall O.",Union League Club,500447989,56,collector,NA,168,group
+"Rockefeller, William Avery Jr.",Union League Club,500447943,32,collector,NA,168,group
+"Roebling, Ferdinand W.",Union League Club,500447566,51,collector,NA,168,group
+"Sabin, Charles H.",Union League Club,500444931,108,collector,NA,168,group
+"Salter, Thomas P.",Union League Club,500446561,128,collector,NA,168,group
+"Schwab, Charles M.",Union League Club,500443232,88,collector,NA,168,group
+"Shepherd, James G.",Union League Club,500447386,34,collector,NA,168,group
+"Sloane, William Douglas",Union League Club,500447561,89,collector,NA,168,group
+"Smith, Charles Stewart",Union League Club,500447573,109,collector,NA,168,group
+"Smith, Theodore E.",Union League Club,500448458,90,collector,NA,168,group
+"Stanford, Leland",Union League Club,500326383,5,collector,NA,168,group
+"Stewart, Lispenard",Union League Club,500448424,144,collector,NA,168,group
+"Stillman, James",Union League Club,500445305,35,collector,NA,168,group
+"Tenney, Charles Henry",Union League Club,500447003,110,collector,NA,168,group
+"Terry, John T.",Union League Club,500447019,121,collector,NA,168,group
+"Thomas, Seth Edward",Union League Club,500443546,93,collector,NA,168,group
+"Thorne, Samuel P.",Union League Club,500447668,36,collector,NA,168,group
+"Tousey, Sinclair",Union League Club,500443864,137,collector,NA,168,group
+"Tuckerman, Lucius",Union League Club,500443322,94,collector,NA,168,group
+"Valentine, Lawson",Union League Club,500448211,6,collector,NA,168,group
+"Valentine, P.A.",Union League Club,500448430,95,collector,NA,168,group
+"Vanderbilt, Cornelius II",Union League Club,500447578,130,collector,NA,168,group
+"Ward, Leslie Dodd",Union League Club,500448108,53,collector,NA,168,group
+"Warren, John Hobart",Union League Club,500444040,96,collector,NA,168,group
+"Willets, Howard",Union League Club,500443260,7,collector,NA,168,group
+"Woolworth, Frank Winfield",Union League Club,500448065,111,collector,NA,168,group
+"Baker, George F.",Money Trust Investigation,500448264,37,collector,NA,169,group
+"Berwind, Edward Julius",Money Trust Investigation,500447709,9,collector,NA,169,group
+"Fahnestock, Harris Charles",Money Trust Investigation,500447606,41,collector,NA,169,group
+"Gary, Elbert H.",Money Trust Investigation,500448272,67,collector,NA,169,group
+"Gould, George Jay I",Money Trust Investigation,500447898,123,collector,NA,169,group
+"Harkness, Charles W.",Money Trust Investigation,500443497,22,collector,NA,169,group
+"Hine, Francis L.",Money Trust Investigation,500446709,70,collector,NA,169,group
+"Jennings, Frederick Beach",Money Trust Investigation,500448357,76,collector,NA,169,group
+"Jennings, Walter",Money Trust Investigation,500443623,25,collector,NA,169,group
+"McGarrah, G. W.",Money Trust Investigation,500449846,126,collector,NA,169,group
+"Mellon, Andrew W.",Money Trust Investigation,500356367,27,collector,NA,169,group
+"Moore, William Henry",Money Trust Investigation,500445235,82,collector,NA,169,group
+"Morgan, J. Pierpont",Money Trust Investigation,500322851,49,collector,NA,169,group
+"Ream, Norman B.",Money Trust Investigation,500449995,85,collector,NA,169,group
+"Reid, Daniel G.",Money Trust Investigation,500448274,86,collector,NA,169,group
+"Rockefeller, William Avery Jr.",Money Trust Investigation,500447943,32,collector,NA,169,group
+"Sabin, Charles H.",Money Trust Investigation,500444931,108,collector,NA,169,group
+"Schiff, Jacob Henry",Money Trust Investigation,500448262,129,collector,NA,169,group
+"Sloane, William Douglas",Money Trust Investigation,500447561,89,collector,NA,169,group
+"Spoor, John A.",Money Trust Investigation,500443775,91,collector,NA,169,group
+"Stillman, James",Money Trust Investigation,500445305,35,collector,NA,169,group
+"Valentine, P.A.",Money Trust Investigation,500448430,95,collector,NA,169,group
