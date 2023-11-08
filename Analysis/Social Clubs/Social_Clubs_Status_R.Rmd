@@ -1,0 +1,88 @@
+---
+title: "1912_Analysis_Test"
+output: html_document
+date: "2023-11-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+install.packages("tidyverse")
+library(tidyverse)
+
+collectors_social <- read_csv("/Users/Nwood/OneDrive - J. Paul Getty Trust/Social_Club_R.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+#nodes
+
+gephi_nodes1 <- collectors_social %>%
+  select(label = Name,
+         ulan = ULAN_ID) %>%
+  distinct(label, ulan) %>%
+  mutate(role = "collector")
+  
+gephi_nodes2 <- collectors_social %>%
+  select(label = Social_Club) %>%
+  distinct(label) %>%
+  mutate(role = "social club")
+  
+gephi_nodes <- bind_rows(gephi_nodes1, gephi_nodes2)
+gephi_nodes <- gephi_nodes %>%
+  mutate(id = row_number())
+  
+#edges
+
+gephi_edges <- collectors_social %>%
+  select(source_label = Name,
+         target_label = Social_Club)
+
+gephi_edges <- gephi_edges %>%
+  left_join(gephi_nodes, by = c("source_label" = "label"))
+  
+gephi_edges <- gephi_edges %>%
+  mutate(source_id = id)
+         
+gephi_edges <- gephi_edges %>%
+  left_join(gephi_nodes, by = c("target_label" = "label"))
+
+gephi_edges <- gephi_edges %>% rename(source = id.x)
+
+gephi_edges <- gephi_edges %>% rename(target = id.y)
+
+gephi_edges <- gephi_edges %>% 
+  select(-ulan.x,
+         -role.x,
+         -source_id,
+         -ulan.y,
+         -role.y)
+         
+write_csv(gephi_nodes, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_nodes.csv")
+write_csv(gephi_edges, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_edges.csv")
+
+#with social club committee/officer status
+
+socialclub_status <- read_csv("/Users/Nwood/OneDrive - J. Paul Getty Trust/SocialClub_Status.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+socialclub_status <- socialclub_status %>% rename(source_label = Name)
+
+gephi_nodes_status <- gephi_nodes %>%
+  left_join(socialclub_status, by = c("label" = "source_label")) 
+
+gephi_nodes_status <- gephi_nodes_status[!duplicated(gephi_nodes_status),]
+
+
+#the above join results in 2 entries for George F. Baker, as he held 1 committee appointment and multiple officer appointments.
+
+#combines the status columns for George F. Baker and deletes the duplicate node id. 
+
+gephi_nodes_status[45, "Status"] <- "Officer and Committee"
+
+gephi_nodes_status <- gephi_nodes_status[-46,]
+
+#I noticed that 2 rows did not successfully merge, because I used an old spreadsheet with non-authority names. Rather than redo everything with the corrected spreadsheet, it was faster to just fix the missing status entries below.
+
+gephi_nodes_status[c(4,16), "Status"] <- "Committee"
+  
+write_csv(gephi_nodes_status, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_nodes_status.csv")
