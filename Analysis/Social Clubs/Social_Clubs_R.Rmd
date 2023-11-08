@@ -1,0 +1,63 @@
+---
+title: "1912_Analysis_Test"
+output: html_document
+date: "2023-11-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+install.packages("tidyverse")
+library(tidyverse)
+
+collectors_social <- read_csv("/Users/Nwood/OneDrive - J. Paul Getty Trust/Social_Club_R.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+#nodes
+
+gephi_nodes1 <- collectors_social %>%
+  select(label = Name,
+         ulan = ULAN_ID) %>%
+  distinct(label, ulan) %>%
+  mutate(role = "collector")
+  
+gephi_nodes2 <- collectors_social %>%
+  select(label = Social_Club) %>%
+  distinct(label) %>%
+  mutate(role = "social club")
+  
+gephi_nodes <- bind_rows(gephi_nodes1, gephi_nodes2)
+gephi_nodes <- gephi_nodes %>%
+  mutate(id = row_number())
+  
+#edges
+
+gephi_edges <- collectors_social %>%
+  select(source_label = Name,
+         target_label = Social_Club)
+
+gephi_edges <- gephi_edges %>%
+  left_join(gephi_nodes, by = c("source_label" = "label"))
+  
+gephi_edges <- gephi_edges %>%
+  mutate(source_id = id)
+         
+gephi_edges <- gephi_edges %>%
+  left_join(gephi_nodes, by = c("target_label" = "label"))
+
+gephi_edges <- gephi_edges %>% rename(source = id.x)
+
+gephi_edges <- gephi_edges %>% rename(target = id.y)
+
+gephi_edges <- gephi_edges %>% 
+  select(-ulan.x,
+         -role.x,
+         -source_id,
+         -ulan.y,
+         -role.y)
+         
+write_csv(gephi_nodes, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_nodes.csv")
+write_csv(gephi_edges, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_edges.csv")
+
