@@ -1,0 +1,74 @@
+---
+title: "Museum_Boards_R"
+output: html_document
+date: "2023-11-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+library(tidyverse)
+
+
+Museum_participants <- read_csv("/Users/Nwood/OneDrive - J. Paul Getty Trust/Collectors_MuseumBoard.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+Museum_roles <- read_csv("/Users/Nwood/OneDrive - J. Paul Getty Trust/MuseumBoard_Roles.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+Museum_sectors <- read_csv("/Users/Nwood/OneDrive - J. Paul Getty Trust/Collectors_MuseumBoards_Sectors.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+#nodes
+
+gephi_nodes1 <- Museum_participants %>%
+  select(label = Name) %>%
+  mutate(category = "collector")
+
+gephi_nodes2 <- Museum_roles %>%
+  select(label = Organization) %>%
+  distinct(label) %>%
+  mutate(category = "museum")
+  
+gephi_nodes_museum <- bind_rows(gephi_nodes1, gephi_nodes2)
+
+gephi_nodes_museum <- gephi_nodes_museum %>%
+  mutate(id = row_number())
+
+#edges
+
+gephi_edges_museum <- Museum_roles %>%
+  select(source_label = Name,
+  target_label = Organization)
+
+#creating edges df with distinct connections
+
+gephi_edges_museum_distinct <- gephi_edges_museum[!duplicated(gephi_edges_museum),]
+
+gephi_edges_museum_distinct <- gephi_edges_museum_distinct %>%
+  left_join(gephi_nodes_museum, by = c("source_label" = "label"))
+  
+gephi_edges_museum_distinct <- gephi_edges_museum_distinct %>%
+  mutate(source = id,
+    source_category = category) %>%
+  select(-id,
+    -category)
+    
+```{r}
+gephi_edges_museum_distinct <- gephi_edges_museum_distinct %>%
+  left_join(gephi_nodes_museum, by = c("target_label" = "label"))
+```
+
+```{r}
+gephi_edges_museum_distinct <- gephi_edges_museum_distinct %>%
+  mutate(target = id,
+         target_category = category) %>%
+  select(-id,
+         -category)
+```
+
+```{r}
+write_csv(gephi_nodes_museum, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_nodes_museum.csv")
+write_csv(gephi_edges_museum_distinct, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_edges_museum_distinct.csv")
+```
+
