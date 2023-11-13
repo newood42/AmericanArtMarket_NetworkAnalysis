@@ -1,0 +1,74 @@
+label,category,id,Organization
+"Adams, Edward D.",collector,1,Metropolitan Museum of Art
+"Andrews, William Loring",collector,2,Metropolitan Museum of Art
+"Avery, Samuel Putnam",collector,3,Metropolitan Museum of Art and Brooklyn Museum of Art
+"Baker, George F.",collector,4,Metropolitan Museum of Art
+"Bishop, Heber R.",collector,5,Metropolitan Museum of Art
+"Blumenthal, George",collector,6,Metropolitan Museum of Art
+"Clarke, Thomas B.",collector,7,Art Institute of Chicago
+"Davis, Theodore M.",collector,8,Metropolitan Museum of Art
+"Fahnestock, Harris Charles",collector,9,Metropolitan Museum of Art
+"Frick, Henry Clay (NY)",collector,10,Metropolitan Museum of Art
+"Hearn, George A.",collector,11,Metropolitan Museum of Art and Brooklyn Museum of Art
+"Hoagland, Joseph Christoffel",collector,12,Brooklyn Museum of Art
+"Layton, Frederick",collector,13,Art Institute of Chicago
+"Ream, Norman B.",collector,14,Art Institute of Chicago
+"Reisinger, Hugo",collector,15,Metropolitan Museum of Art
+"Rockefeller, William Avery Jr.",collector,16,Metropolitan Museum of Art
+"Sloane, William Douglas",collector,17,Metropolitan Museum of Art
+"Spoor, John A.",collector,18,Art Institute of Chicago
+"Stillman, James",collector,19,Metropolitan Museum of Art
+"Terry, John T.",collector,20,Metropolitan Museum of Art
+"Tousey, Sinclair",collector,21,Metropolitan Museum of Art
+"Valentine, P.A.",collector,22,Brooklyn Museum of Art
+"Vanderbilt, Cornelius II",collector,23,Metropolitan Museum of Art
+"Allen, George L.",collector,24,Saint Louis Art Museum
+"Astor, William",collector,26,Metropolitan Museum of Art
+"Barger, Samuel F.",collector,27,Metropolitan Museum of Art
+"Bartlett, Francis",collector,28,"Museum of Fine Arts, Boston"
+"Bennett, James Gordon Jr.",collector,29,Metropolitan Museum of Art
+"Bixby, William K.",collector,30,Saint Louis Art Museum
+"Catlin, Daniel",collector,31,Saint Louis Art Museum
+"Clark, George Crawford",collector,32,Metropolitan Museum of Art
+"Comstock, William C.",collector,33,Art Institute of Chicago
+"Deering, Charles",collector,34,Art Institute of Chicago
+"Gould, Helen",collector,36,Metropolitan Museum of Art
+"Gunsaulus, Dr. Frank W.",collector,37,Art Institute of Chicago
+"Harkness, Edward",collector,38,Metropolitan Museum of Art
+"Healy, Aaron Augustus",collector,39,Brooklyn Museum of Art
+"Hutchinson, William J.",collector,40,Metropolitan Museum of Art
+"Jewett, William Kennon",collector,41,Metropolitan Museum of Art
+"Johnson, John G.",collector,42,Metropolitan Museum of Art
+"Lewisohn, Adolph",collector,43,Metropolitan Museum of Art
+"Martin, Bradley",collector,44,Metropolitan Museum of Art
+"McAlpin, David H.",collector,45,Metropolitan Museum of Art
+"Morgan, J. Pierpont, Jr.",collector,46,Metropolitan Museum of Art
+"Nickerson, Samuel M.",collector,47,Art Institute of Chicago
+"Roloson, Robert W.",collector,48,Art Institute of Chicago
+"Russel, Horace",collector,49,Metropolitan Museum of Art
+"Ryerson, Martin A.",collector,50,Art Institute of Chicago
+"Spaulding, William S.",collector,51,"Museum of Fine Arts, Boston"
+"Vanderbilt, William Kissam",collector,52,Metropolitan Museum of Art
+"Walker, E. Chandler",collector,53,Detroit Institute of Arts
+"Walters, Henry",collector,54,Metropolitan Museum of Art
+"White, George Robert",collector,55,"Museum of Fine Arts, Boston"
+"Loeser, Frederick",collector,56,Brooklyn Museum of Art
+"De Silver, Carll H.",collector,57,Brooklyn Museum of Art
+"Lockwood, Luke Vincent",collector,58,Metropolitan Museum of Art
+Sector 22-Utilities,Sector,59,Sector
+Sector 52-Finance and Insurance,Sector,60,Sector
+Sector 48-49-Transportation and Warehousing,Sector,61,Sector
+Sector 31-33-Manufacturing,Sector,62,Sector
+Sector 23-Construction,Sector,63,Sector
+"Sector 21-Mining, Quarrying, and Oil and Gas Extraction",Sector,64,Sector
+Sector 51-Information,Sector,65,Sector
+"Sector 71-Arts, Entertainment, and Recreation",Sector,66,Sector
+Sector 44-45-Retail Trade,Sector,67,Sector
+"Sector 54-Professional, Scientific, and Technical Services",Sector,68,Sector
+Sector 42-Wholesale Trade,Sector,69,Sector
+Sector 62-Health Care and Social Assistance,Sector,70,Sector
+Sector 53-Real Estate and Rental and Leasing,Sector,71,Sector
+Sector 72-Accommodation and Food Services,Sector,73,Sector
+Sector 92-Public Administration,Sector,74,Sector
+Sector 61-Educational Services,Sector,75,Sector
+Sector 81-Other Services (except Public Administration),Sector,76,Sector
