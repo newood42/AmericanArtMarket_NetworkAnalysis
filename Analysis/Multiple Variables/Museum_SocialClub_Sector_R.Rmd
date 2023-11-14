@@ -1,0 +1,253 @@
+---
+title: "Museum_SocialClub_Connections"
+output: html_document
+date: "2023-11-13"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+library(tidyverse)
+
+#nodes
+```{r}
+social_club <- read_csv("C:/Users/Nwood/OneDrive - J. Paul Getty Trust/SocialClub_Members.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+Museum_roles <- read_csv("C:/Users/Nwood/OneDrive - J. Paul Getty Trust/MuseumBoard_Roles.csv", col_names = TRUE, col_types = cols(.default = "c"))
+```
+
+```{r}
+gephi_nodes_names <- social_club %>%
+  select(label = Name) %>%
+  distinct(label) %>%
+  mutate(role = "collector")
+
+gephi_nodes_social <- social_club %>%
+  select(label = "Social Club") %>%
+  distinct(label) %>%
+  mutate(role = "social club")
+  
+gephi_nodes_museum <- Museum_roles %>%
+  select(label = Organization) %>%
+  distinct(label) %>%
+  mutate(role = "museum")
+
+gephi_nodes_museum_name <- Museum_roles %>%
+  select(label = Name) %>%
+  distinct(label) %>%
+  mutate(role = "collector")
+
+gephi_nodes <- bind_rows(gephi_nodes_names, gephi_nodes_museum_name, gephi_nodes_social, gephi_nodes_museum)
+
+gephi_nodes <- gephi_nodes %>%
+  distinct(label, .keep_all = TRUE)
+
+gephi_nodes <- gephi_nodes %>%
+  mutate(id = row_number())
+```
+
+#merging columns for edge table
+
+```{r}
+colnames(Museum_roles)[colnames(Museum_roles) == "Name"] <- "label"
+colnames(Museum_roles)[colnames(Museum_roles) == "Organization"] <- "Target"
+
+Museum_roles_gephi <- Museum_roles %>%
+  select(label, Target)
+
+colnames(social_club)[colnames(social_club) == "Name"] <- "label"
+colnames(social_club)[colnames(social_club) == "Social Club"] <- "Target"
+
+social_club_gephi <- social_club %>%
+  select(label, Target)
+
+Gephi_museum_social <- rbind(Museum_roles_gephi, social_club_gephi)
+```
+
+#edges
+
+```{r}
+gephi_edges <- Gephi_museum_social %>%
+  select(source_label = label,
+         target_label = Target)
+
+gephi_edges <- gephi_edges %>%
+  left_join(gephi_nodes, by = c("source_label" = "label"))
+
+gephi_edges <- gephi_edges %>%
+  left_join(gephi_nodes, by = c("target_label" = "label"))
+
+gephi_edges <- gephi_edges %>%
+  mutate(source = id.x,
+         target = id.y)
+
+gephi_edges <- gephi_edges %>%
+  select(-id.x,
+         -id.y)
+
+gephi_edges_distinct <- distinct(gephi_edges)
+```
+
+#creating columns for variable visualization. 
+
+```{r}
+
+```
+
+#write .csv
+
+```{r}
+write_csv(gephi_nodes, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_nodes_museum_social.csv")
+write_csv(gephi_edges_distinct, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_edges_museum_social.csv")
+```
+
+#adding sectors
+
+```{r}
+sector_subsector <- read_csv("C:/Users/Nwood/OneDrive - J. Paul Getty Trust/Sector_Subsector.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+sector <- sector_subsector %>%
+  select(ULAN_ID, Name, Sector)
+
+subsector <- sector_subsector %>%
+  select(ULAN_ID, Name, Subsector)
+```
+
+```{r}
+sector_nodes <- sector %>% 
+  distinct(Sector) %>%
+  select(label = Sector) %>%
+  mutate(role = "sector") %>%
+  drop_na()
+
+sector_names  <- sector %>%
+  distinct(label) %>%
+  select(label) %>%
+  mutate(role = "collector")
+
+subsector_nodes <- subsector %>% 
+  distinct(Subsector) %>%
+  select(label = Subsector) %>%
+  mutate(role = "subsector") %>%
+  drop_na()
+
+subsector_names <- subsector %>%
+  distinct(label) %>%
+  select(label) %>%
+  mutate(role = "collector")
+```
+
+```{r}
+gephi_nodes_sector <- bind_rows(gephi_nodes, sector_nodes, sector_names) %>%
+  select(label, role) %>%
+  distinct(label, .keep_all = TRUE)
+```
+
+```{r}
+gephi_nodes_sector <- arrange(gephi_nodes_sector, role)
+
+gephi_nodes_sector <- gephi_nodes_sector %>%
+  mutate(id = row_number())
+```
+
+```{r}
+gephi_nodes_subsector <- bind_rows(gephi_nodes, subsector_nodes, subsector_names) %>%
+  select(label, role) %>%
+  distinct(label, .keep_all = TRUE)
+```
+
+```{r}
+gephi_nodes_subsector <- arrange(gephi_nodes_subsector, role)
+
+gephi_nodes_subsector <- gephi_nodes_subsector %>%
+  mutate(id = row_number())
+```
+
+#museum and sector/subsector edges 
+
+```{r}
+gephi_edges_sector <- sector_subsector %>%
+  select(source_label = Name,
+         target_label = Sector)
+
+gephi_edges_sector <- gephi_edges_sector %>%
+  left_join(gephi_nodes_sector, by = c("source_label" = "label"))
+
+gephi_edges_sector <- gephi_edges_sector %>%
+  left_join(gephi_nodes_sector, by = c("target_label" = "label"))
+
+gephi_edges_sector <- gephi_edges_sector %>%
+  mutate(source = id.x,
+         target = id.y)
+
+gephi_edges_sector <- gephi_edges_sector %>%
+  select(-id.x,
+         -id.y,
+         -role.x,
+         -role.y)
+
+gephi_edges_sector <- distinct(gephi_edges_sector)
+
+gephi_edges_subsector <- sector_subsector %>%
+  select(source_label = Name,
+         target_label = Subsector)
+
+gephi_edges_subsector <- gephi_edges_subsector %>%
+  left_join(gephi_nodes_subsector, by = c("source_label" = "label"))
+
+gephi_edges_subsector <- gephi_edges_subsector %>%
+  left_join(gephi_nodes_subsector, by = c("target_label" = "label"))
+
+gephi_edges_subsector <- gephi_edges_subsector %>%
+  mutate(source = id.x,
+         target = id.y)
+
+gephi_edges_subsector <- gephi_edges_subsector %>%
+  select(-id.x,
+         -id.y,
+         -role.x,
+         -role.y)
+
+gephi_edges_subsector <- distinct(gephi_edges_subsector)
+
+gephi_edges_museum <- Gephi_museum_social %>%
+  select(source_label = label,
+         target_label = Target) %>%
+  mutate(role = "museum")
+
+gephi_edges_museum <- gephi_edges_museum %>%
+  left_join(gephi_nodes_sector, by = c("source_label" = "label"))
+
+gephi_edges_museum <- gephi_edges_museum %>%
+  left_join(gephi_nodes_sector, by = c("target_label" = "label"))
+
+gephi_edges_museum <- gephi_edges_museum %>%
+  mutate(source = id.x,
+         target = id.y)
+
+gephi_edges_museum <- gephi_edges_museum %>%
+  select(-id.x,
+         -id.y,
+         -role.x,
+         -role.y,
+         -role)
+
+gephi_edges_museum <- distinct(gephi_edges_museum)
+```
+
+#combining edges for museums, social clubs, and sectors
+
+```{r}
+gephi_edges_all_sector <- bind_rows(gephi_edges_sector, gephi_edges_museum)
+
+gephi_edges_all_sector <- drop_na(gephi_edges_all_sector)
+
+gephi_edges_all_sector <- distinct(gephi_edges_all_sector)
+```
+
+```{r}
+write_csv(gephi_nodes_sector, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_nodes_all_sector.csv")
+write_csv(gephi_edges_all_sector, "/Users/Nwood/OneDrive - J. Paul Getty Trust/gephi_edges_all_sector.csv")
+```
+
