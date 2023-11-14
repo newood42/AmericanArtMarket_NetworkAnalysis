@@ -1,0 +1,211 @@
+label,role,id
+"Blumenthal, George",collector,1
+"Brookfield, William",collector,2
+"Burrage, Albert C.",collector,3
+"Clark, William Andrews",collector,4
+"Clarke, Augustus W.",collector,5
+"Connor, Washington Everett",collector,6
+"De Lima, David A.",collector,7
+"Fletcher, Isaac D.",collector,8
+"Flower, Frederick, S.",collector,9
+"Fry, John Hemming",collector,10
+"Gardiner, George Schuyler",collector,11
+"Harrison, Hugh H.",collector,12
+"Hearn, George A.",collector,13
+"Hearst, William Randolph",collector,14
+"Heye, Dr. George G.",collector,15
+"Humphreys, Dr. Alexander C.",collector,16
+"Lambert, Catholina",collector,17
+"Lawrence, Frank R.",collector,18
+"Lehmaier, Louis A.",collector,19
+"Lehman, Arthur",collector,20
+"Mansfield, Burton",collector,21
+"Merriam, William Rush",collector,22
+"Obrig, Adolf",collector,23
+"Reinhardt, Henry",collector,24
+"Reisinger, Hugo",collector,25
+"Ruppert, Jacob",collector,26
+"Seligman, Henry",collector,27
+"Seligman, Isaac Newton",collector,28
+"Shepherd, James G.",collector,29
+"Stern, Louis",collector,30
+"Stransky, Josef",collector,31
+"Tenney, Charles Henry",collector,32
+"Valentine, P.A.",collector,33
+"Widener, Peter A.B.",collector,34
+"Woolworth, Frank Winfield",collector,35
+"Adams, Edward D.",collector,36
+"Aitken, John W.",collector,37
+"Alger, Russel Alexander",collector,38
+"Allis, Charles",collector,39
+"Ames, Frederick Lothrop",collector,40
+"Ames, Oliver",collector,41
+"Andrews, William Loring",collector,42
+"Astor, John Jacob (III)",collector,43
+"Avery, Samuel Putnam",collector,44
+"Baker, George F.",collector,45
+"Bakewell, Allen Campbell",collector,46
+"Bangs, F.N.",collector,47
+"Bishop, Heber R.",collector,48
+"Borden, Matthew Challoner Durfee",collector,49
+"Bostwick, Jabez A.",collector,50
+"Butler, Theron R.",collector,51
+"Carstairs, Charles Stewart",collector,52
+"Carstairs, John Haseltine",collector,53
+"Clark, William (Newark)",collector,54
+"Clarke, Thomas B.",collector,55
+"Closson, James T.",collector,56
+"Clyde, William P.",collector,57
+"Cochran, Thomas",collector,58
+"Coffin, Charles Albert",collector,59
+"Cook, Henry H.",collector,60
+"Crocker, Charles",collector,61
+"Curtis, George N.",collector,62
+"Curtis, William John",collector,63
+"Davenport, Ira",collector,64
+"Davis, Theodore M.",collector,65
+"Dick, Harris Brisbane",collector,66
+"Dun, Robert Graham",collector,67
+"Ellsworth, James W.",collector,68
+"Fahnestock, Harris Charles",collector,69
+"Field, Marshall",collector,70
+"Fiske, Josiah M.",collector,71
+"Flagler, Henry Morrison",collector,72
+"Foos, Lamar",collector,73
+"Frick, Henry Clay (NY)",collector,74
+"Fuller, William H.",collector,75
+"Gould, Frank Jay",collector,76
+"Graham, Malcolm",collector,77
+"Harbeck, Charles T.",collector,78
+"Harding, J. Horace",collector,79
+"Harper, Fletcher, Jr.",collector,80
+"Harper, Joseph Abner",collector,81
+"Hartley, Marcellus",collector,82
+"Hill, James N.",collector,83
+"Hine, Francis L.",collector,84
+"Hoagland, Joseph Christoffel",collector,85
+"Holmes, John Grier",collector,86
+"Horton, Henry Lawrence",collector,87
+"Hotchkiss, Horace L.",collector,88
+"Hoyt, Charles Albert",collector,89
+"Huntington, Collis P.",collector,90
+"Huntington, Henry Edwards",collector,91
+"Hyde, Clarence M.",collector,92
+"Hyde, Henry Baldwin",collector,93
+"Inglis, James Smith",collector,94
+"Ives, Brayton C.",collector,95
+"Jackson, Edwin E.",collector,96
+"Jennings, Frederick Beach",collector,97
+"King, David H., Jr.",collector,98
+"Kirby, Thomas E.",collector,99
+"Lawrence, Cyrus I.",collector,100
+"Layton, Frederick",collector,101
+"Leighton, George E.",collector,102
+"Mather, Samuel",collector,103
+"McGarrah, G. W.",collector,104
+"Mellon, Andrew W.",collector,105
+"Milbank, Jeremiah",collector,106
+"Milliken, Seth Mellen",collector,107
+"Mills, Darius Ogden",collector,108
+"Moore, William Henry",collector,109
+"Morgan, J. Pierpont",collector,110
+"Oliver, George Tener",collector,111
+"Oliver, Henry W.",collector,112
+"Peavey, Frank Hutchinson",collector,113
+"Penfold, Edmund",collector,114
+"Peters, Samuel T.",collector,115
+"Raynor, James A.",collector,116
+"Riker, John Lawrence",collector,117
+"Roberts, Marshall O.",collector,118
+"Rockefeller, William Avery Jr.",collector,119
+"Roebling, Ferdinand W.",collector,120
+"Sabin, Charles H.",collector,121
+"Salter, Thomas P.",collector,122
+"Schwab, Charles M.",collector,123
+"Sloane, William Douglas",collector,124
+"Smith, Charles Stewart",collector,125
+"Smith, Theodore E.",collector,126
+"Stanford, Leland",collector,127
+"Stewart, Lispenard",collector,128
+"Stillman, James",collector,129
+"Terry, John T.",collector,130
+"Thomas, Seth Edward",collector,131
+"Thorne, Samuel P.",collector,132
+"Tousey, Sinclair",collector,133
+"Tuckerman, Lucius",collector,134
+"Valentine, Lawson",collector,135
+"Vanderbilt, Cornelius II",collector,136
+"Ward, Leslie Dodd",collector,137
+"Warren, John Hobart",collector,138
+"Willets, Howard",collector,139
+"Gunsaulus, Dr. Frank W.",collector,140
+"Allen, George L.",collector,141
+"Armour, George A.",collector,142
+"Astor, William",collector,143
+"Barger, Samuel F.",collector,144
+"Bartlett, Francis",collector,145
+"Bennett, James Gordon Jr.",collector,146
+"Bixby, William K.",collector,147
+"Catlin, Daniel",collector,148
+"Clark, George Crawford",collector,149
+"Comstock, William C.",collector,150
+"Deering, Charles",collector,151
+"Edwards, Robert J.",collector,152
+"Gould, Helen",collector,153
+"Harkness, Edward",collector,154
+"Healy, Aaron Augustus",collector,155
+"Hutchinson, William J.",collector,156
+"Jewett, William Kennon",collector,157
+"Johnson, John G.",collector,158
+"Lewisohn, Adolph",collector,159
+"Martin, Bradley",collector,160
+"McAlpin, David H.",collector,161
+"Morgan, J. Pierpont, Jr.",collector,162
+"Nickerson, Samuel M.",collector,163
+"Ream, Norman B.",collector,164
+"Roloson, Robert W.",collector,165
+"Russel, Horace",collector,166
+"Ryerson, Martin A.",collector,167
+"Spaulding, William S.",collector,168
+"Spoor, John A.",collector,169
+"Vanderbilt, William Kissam",collector,170
+"Walker, E. Chandler",collector,171
+"Walters, Henry",collector,172
+"White, George Robert",collector,173
+"Lockwood, Luke Vincent",collector,174
+"Loeser, Frederick",collector,175
+"De Silver, Carll H.",collector,176
+"Berwind, Edward Julius",collector,177
+"Gary, Elbert H.",collector,178
+"Gould, George Jay I",collector,179
+"Harkness, Charles W.",collector,180
+"Jennings, Walter",collector,181
+"Reid, Daniel G.",collector,182
+"Schiff, Jacob Henry",collector,183
+Metropolitan Museum of Art,museum,184
+Saint Louis Art Museum,museum,185
+Art Institute of Chicago,museum,186
+Brooklyn Museum of Art,museum,187
+"Museum of Fine Arts, Boston",museum,188
+Detroit Institute of Arts,museum,189
+Sector 22-Utilities,sector,190
+Sector 52-Finance and Insurance,sector,191
+Sector 48-49-Transportation and Warehousing,sector,192
+Sector 31-33-Manufacturing,sector,193
+Sector 23-Construction,sector,194
+"Sector 21-Mining, Quarrying, and Oil and Gas Extraction",sector,195
+Sector 42-Wholesale Trade,sector,196
+Sector 62-Health Care and Social Assistance,sector,197
+Sector 92-Public Administration,sector,198
+Sector 51-Information,sector,199
+"Sector 71-Arts, Entertainment, and Recreation",sector,200
+Sector 44-45-Retail Trade,sector,201
+"Sector 54-Professional, Scientific, and Technical Services",sector,202
+Sector 53-Real Estate and Rental and Leasing,sector,203
+"Sector 11-Agriculture, Forestry, Fishing and Hunting",sector,204
+Sector 56-Administrative and Support and Waste Management and Remediation Services,sector,205
+Sector 72-Accommodation and Food Services,sector,206
+Sector 61-Educational Services,sector,207
+Sector 81-Other Services (except Public Administration),sector,208
+Lotos Club,social club,209
+Union League Club,social club,210
