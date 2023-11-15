@@ -1,3 +1,5 @@
+Modularity clusters appear to be more random than clarifying. 
+
 Identified modularity clusters are:
   *modularity class 0: 
     *subsectors: Subsector 332-Fabricated Metal Product Manufacturing; Subsector 325-Chemical Manufacturing; 
@@ -25,6 +27,18 @@ Identified modularity clusters are:
     Dick, Harris Brisbane; Harbeck, Charles T.; Harper, Fletcher, Jr.; Harper, Joseph Abner; Inglis, James Smith; Kirby, Thomas E.; Oliver, George Tener; Salter, Thomas P.; 
     Stanford, Leland; Thomas, Seth Edward; Willets, Howard; Astor, William; Bennett, James Gordon Jr.; Healy, Aaron Augustus; Ryerson, Martin A.; Vanderbilt, William Kissam
   *modularity class 4:
-    *subsectors:
-    *class: 
+    *subsectors: Subsector 522-Credit Intermediation and Related Activities; Subsector 622-Hospitals; Subsector 541-Professional, Scientific, and Technical Services; 
+    Subsector 322-Paper Manufacturing; Subsector 712-Museums, Historical Sites, and Similar Institutions; Subsector 444-Building Material and Garden Equipment and Supplies Dealers; 
+    Subsector 339-Miscellaneous Manufacturing; Subsector 445-Food and Beverage Retailers
+    *collectors: Heye, Dr. George G.; Lawrence, Frank R.; Mansfield, Burton; Stern, Louis; Aitken, John W.; Bangs, F.N.; Closson, James T.; Davis, Theodore M.; Fuller, William H.; 
+    Jackson, Edwin E.; Jennings, Frederick Beach; Mather, Samuel; Smith, Theodore E.; Tousey, Sinclair; Bartlett, Francis; Clark, George Crawford; Johnson, John G.; Martin, Bradley; 
+    Walters, Henry; Lockwood, Luke Vincent; De Silver, Carll H.; Jennings, Walter
+  *modularity class 5:
+    *subsectors: Subsector 922-Justice, Public Order, and Safety Activities
+    *collectors: Russel, Horace
+  *modularity class 6:
+    *subsectors: Subsector 523-Securities, Commodity Contracts, and Other Financial Investments and Related Activities; Subsector 485-Transit and Ground Passenger Transportation; 
+    Subsector 238-Specialty Trade Contractors; Subsector 493-Warehousing and Storage
+    *collectors: Connor, Washington Everett; Cochran, Thomas; Fiske, Josiah M.; Holmes, John Grier; Horton, Henry Lawrence; King, David H., Jr.; Lawrence, Cyrus I.; 
+    Peavey, Frank Hutchinson; Thorne, Samuel P.; Roloson, Robert W.; Gould, George Jay I; Schiff, Jacob Henry
   
