@@ -1,0 +1,247 @@
+Id,Label,role,Degree,Weighted Degree,bridgingcoefficient,bridgingcentrality,componentnumber,modularity_class
+1,"Blumenthal, George",collector,6,6,0.72384,0.003709,0,0
+25,"Reisinger, Hugo",collector,2,2,1.71875,0.000244,0,0
+67,"Dun, Robert Graham",collector,2,2,0.8,0.000271,0,0
+77,"Graham, Malcolm",collector,1,1,20,0,0,0
+79,"Harding, J. Horace",collector,8,8,0.396346,0.002917,0,0
+82,"Hartley, Marcellus",collector,6,6,0.21158,0.00244,0,0
+92,"Hyde, Clarence M.",collector,2,2,3.548387,0.00329,0,0
+105,"Mellon, Andrew W.",collector,14,14,0.070257,0.002374,0,0
+135,"Valentine, Lawson",collector,3,3,0.286778,0.002732,0,0
+138,"Warren, John Hobart",collector,3,3,4.376674,0.00503,0,0
+141,"Allen, George L.",collector,1,1,20,0,0,0
+148,"Catlin, Daniel",collector,3,3,2.289332,0.002198,0,0
+156,"Hutchinson, William J.",collector,5,5,0.862141,0.002224,0,0
+161,"McAlpin, David H.",collector,2,2,2.117647,0.000256,0,0
+171,"Walker, E. Chandler",collector,4,4,1.048058,0.001872,0,0
+210,Subsector 332-Fabricated Metal Product Manufacturing,subsector,20,20,0.009878,0.00029,0,0
+220,Subsector 325-Chemical Manufacturing,subsector,11,11,0.032,0.000682,0,0
+223,Subsector 327-Nonmetallic Mineral Product Manufacturing,subsector,5,5,0.213198,0.000828,0,0
+234,Subsector 561-Administrative and Support Services,subsector,2,2,0.75,0.000778,0,0
+237,Subsector 312-Beverage and Tobacco Product Manufacturing,subsector,9,9,0.055622,0.000383,0,0
+252,Subsector 111-Crop Production,subsector,1,1,3,0,0,0
+10,"Fry, John Hemming",collector,2,2,1,0.00059,0,1
+17,"Lambert, Catholina",collector,3,3,1.657069,0.00324,0,1
+26,"Ruppert, Jacob",collector,7,7,0.19184,0.005387,0,1
+31,"Stransky, Josef",collector,1,1,3,0,0,1
+49,"Borden, Matthew Challoner Durfee",collector,2,2,2.810526,0.003309,0,1
+54,"Clark, William (Newark)",collector,1,1,6,0,0,1
+107,"Milliken, Seth Mellen",collector,8,8,0.18252,0.004895,0,1
+140,"Gunsaulus, Dr. Frank W.",collector,2,2,0.75,0.011994,0,1
+150,"Comstock, William C.",collector,3,3,1.28,0.004636,0,1
+153,"Gould, Helen",collector,1,1,2,0,0,1
+221,Subsector 313-Textile Mills,subsector,6,6,0.076881,0.000731,0,1
+238,Subsector 611-Educational Services,subsector,6,6,0.081633,0.002456,0,1
+239,"Subsector 711-Performing Arts, Spectator Sports, and Related Industries 543",subsector,3,3,0.202899,0.002165,0,1
+254,"Subsector 813-Religious, Grantmaking, Civic, Professional, and Similar Organizations",subsector,2,2,0.333333,0.002676,0,1
+13,"Hearn, George A.",collector,1,1,26,0,0,2
+32,"Tenney, Charles Henry",collector,2,2,10.06087,0.00688,0,2
+51,"Butler, Theron R.",collector,2,2,9.365591,0.006426,0,2
+53,"Carstairs, John Haseltine",collector,1,1,26,0,0,2
+70,"Field, Marshall",collector,2,2,3.058824,0.001078,0,2
+106,"Milbank, Jeremiah",collector,3,3,2.670609,0.004049,0,2
+121,"Sabin, Charles H.",collector,2,2,10.06087,0.00688,0,2
+130,"Terry, John T.",collector,6,6,0.627773,0.004219,0,2
+159,"Lewisohn, Adolph",collector,2,2,7.172414,0.002431,0,2
+173,"White, George Robert",collector,2,2,10.06087,0.00688,0,2
+175,"Loeser, Frederick",collector,2,2,3.058824,0.001078,0,2
+201,"Subsector 424-Merchant Wholesalers, Nondurable Goods",subsector,26,26,0.004225,0.000214,0,2
+231,Subsector 452-General Merchandise Stores,subsector,8,8,0.052605,0.000718,0,2
+4,"Clark, William Andrews",collector,5,5,0.145125,0.00311,0,3
+5,"Clarke, Augustus W.",collector,1,1,8,0,0,3
+7,"De Lima, David A.",collector,3,3,2.876367,0.011176,0,3
+11,"Gardiner, George Schuyler",collector,2,2,2.181818,0.000862,0,3
+19,"Lehmaier, Louis A.",collector,1,1,14,0,0,3
+22,"Merriam, William Rush",collector,4,4,0.413233,0.007917,0,3
+24,"Reinhardt, Henry",collector,2,2,1.538462,0.007423,0,3
+34,"Widener, Peter A.B.",collector,5,5,0.579539,0.002311,0,3
+38,"Alger, Russel Alexander",collector,3,3,1.365605,0.00324,0,3
+41,"Ames, Oliver",collector,3,3,2.61591,0.00683,0,3
+44,"Avery, Samuel Putnam",collector,2,2,1.090909,0.001917,0,3
+52,"Carstairs, Charles Stewart",collector,1,1,8,0,0,3
+55,"Clarke, Thomas B.",collector,2,2,0.8,0.002185,0,3
+63,"Curtis, William John",collector,9,9,0.089586,0.003763,0,3
+64,"Davenport, Ira",collector,1,1,16,0,0,3
+66,"Dick, Harris Brisbane",collector,1,1,14,0,0,3
+78,"Harbeck, Charles T.",collector,2,2,0.466667,0.003747,0,3
+80,"Harper, Fletcher, Jr.",collector,1,1,14,0,0,3
+81,"Harper, Joseph Abner",collector,1,1,14,0,0,3
+94,"Inglis, James Smith",collector,1,1,8,0,0,3
+99,"Kirby, Thomas E.",collector,1,1,8,0,0,3
+111,"Oliver, George Tener",collector,4,4,1.08988,0.007702,0,3
+122,"Salter, Thomas P.",collector,2,2,0.888889,0.003132,0,3
+127,"Stanford, Leland",collector,8,8,0.211562,0.004557,0,3
+131,"Thomas, Seth Edward",collector,1,1,2,0,0,3
+139,"Willets, Howard",collector,3,3,0.761905,0.000736,0,3
+143,"Astor, William",collector,5,5,0.164303,0.001971,0,3
+146,"Bennett, James Gordon Jr.",collector,2,2,3.733333,0.005532,0,3
+155,"Healy, Aaron Augustus",collector,3,3,0.941176,0.031757,0,3
+167,"Ryerson, Martin A.",collector,4,4,0.766499,0.001656,0,3
+170,"Vanderbilt, William Kissam",collector,3,3,0.678726,0.0077,0,3
+204,"Subsector 921-Executive, Legislative, and Other General Government Support",subsector,16,16,0.013254,0.000816,0,3
+205,Subsector 321-Wood Product Manufacturing,subsector,6,6,0.111643,0.000453,0,3
+213,"Subsector 711-Performing Arts, Spectator Sports, and Related Industries",subsector,3,3,0.322581,0.00262,0,3
+214,Subsector 453-Miscellaneous Store Retailers,subsector,8,8,0.021429,0.000763,0,3
+225,Subsector 112-Animal Production and Aquaculture,subsector,4,4,0.275229,0.00068,0,3
+226,Subsector 113-Forestry and Logging,subsector,1,1,5,0,0,3
+227,Subsector 511-Publishing Industries (except Internet),subsector,14,14,0.01014,0.000629,0,3
+228,Subsector 315-Apparel Manufacturing,subsector,2,2,0.818182,0.007407,0,3
+241,"Subsector 451-Sporting Goods, Hobby, Musical Instrument, and Book Stores",subsector,1,1,2,0,0,3
+248,Subsector 334-Computer and Electronic Product Manufacturing,subsector,2,2,0.4,0.003212,0,3
+250,Subsector 928-National Security and International Affairs,subsector,2,2,0.714286,0.000438,0,3
+15,"Heye, Dr. George G.",collector,3,3,1.37465,0.007017,0,4
+18,"Lawrence, Frank R.",collector,4,4,2.211153,0.008302,0,4
+21,"Mansfield, Burton",collector,5,5,0.530723,0.003414,0,4
+30,"Stern, Louis",collector,6,6,0.488083,0.003466,0,4
+37,"Aitken, John W.",collector,4,4,1.229898,0.003334,0,4
+47,"Bangs, F.N.",collector,1,1,20,0,0,4
+56,"Closson, James T.",collector,1,1,89,0,0,4
+65,"Davis, Theodore M.",collector,4,4,0.854742,0.008018,0,4
+75,"Fuller, William H.",collector,2,2,0.47619,0.003824,0,4
+96,"Jackson, Edwin E.",collector,5,5,0.567686,0.002958,0,4
+97,"Jennings, Frederick Beach",collector,7,7,0.28314,0.00366,0,4
+103,"Mather, Samuel",collector,4,4,1.174037,0.001954,0,4
+126,"Smith, Theodore E.",collector,3,3,1.150189,0.001471,0,4
+133,"Tousey, Sinclair",collector,2,2,6.048544,0.055232,0,4
+145,"Bartlett, Francis",collector,2,2,8.165138,0.014264,0,4
+149,"Clark, George Crawford",collector,1,1,89,0,0,4
+158,"Johnson, John G.",collector,1,1,20,0,0,4
+160,"Martin, Bradley",collector,1,1,20,0,0,4
+172,"Walters, Henry",collector,4,4,0.203888,0.00313,0,4
+174,"Lockwood, Luke Vincent",collector,5,5,0.683518,0.011602,0,4
+176,"De Silver, Carll H.",collector,4,4,0.748161,0.008015,0,4
+181,"Jennings, Walter",collector,5,5,0.374187,0.001204,0,4
+199,Subsector 522-Credit Intermediation and Related Activities,subsector,89,89,0.000515,0.00017,0,4
+202,Subsector 622-Hospitals,subsector,8,8,0.067164,0.000413,0,4
+216,"Subsector 541-Professional, Scientific, and Technical Services",subsector,20,20,0.006597,0.000396,0,4
+232,Subsector 322-Paper Manufacturing,subsector,5,5,0.294565,0.000614,0,4
+233,"Subsector 712-Museums, Historical Sites, and Similar Institutions",subsector,5,5,0.12,0.001562,0,4
+240,Subsector 444-Building Material and Garden Equipment and Supplies Dealers,subsector,1,1,2,0,0,4
+245,Subsector 339-Miscellaneous Manufacturing,subsector,4,4,0.3125,0.000191,0,4
+256,Subsector 445-Food and Beverage Retailers,subsector,1,1,4,0,0,4
+166,"Russel, Horace",collector,1,1,1,0,2,5
+255,"Subsector 922-Justice, Public Order, and Safety Activities",subsector,1,1,1,0,2,5
+6,"Connor, Washington Everett",collector,2,2,11.768595,0.003583,0,6
+58,"Cochran, Thomas",collector,8,8,0.277544,0.002723,0,6
+71,"Fiske, Josiah M.",collector,4,4,2.399156,0.004707,0,6
+86,"Holmes, John Grier",collector,4,4,1.435344,0.001684,0,6
+87,"Horton, Henry Lawrence",collector,1,1,32,0,0,6
+98,"King, David H., Jr.",collector,3,3,0.512821,0.000394,0,6
+100,"Lawrence, Cyrus I.",collector,4,4,0.971208,0.002679,0,6
+113,"Peavey, Frank Hutchinson",collector,6,6,0.368631,0.002228,0,6
+132,"Thorne, Samuel P.",collector,8,8,0.276794,0.002124,0,6
+165,"Roloson, Robert W.",collector,3,3,2.075283,0.003463,0,6
+179,"Gould, George Jay I",collector,5,5,0.865717,0.002327,0,6
+183,"Schiff, Jacob Henry",collector,5,5,1.396969,0.003469,0,6
+193,"Subsector 523-Securities, Commodity Contracts, and Other Financial Investments and Related Activities",subsector,32,32,0.004388,0.000238,0,6
+219,Subsector 485-Transit and Ground Passenger Transportation,subsector,9,9,0.075269,0.000134,0,6
+230,Subsector 238-Specialty Trade Contractors,subsector,4,4,0.382979,0.001496,0,6
+246,Subsector 493-Warehousing and Storage,subsector,5,5,0.212389,0.000816,0,6
+3,"Burrage, Albert C.",collector,4,4,0.404343,0.000939,0,7
+35,"Woolworth, Frank Winfield",collector,5,5,0.767892,0.002348,0,7
+48,"Bishop, Heber R.",collector,6,6,0.545697,0.001788,0,7
+85,"Hoagland, Joseph Christoffel",collector,1,1,14,0,0,7
+90,"Huntington, Collis P.",collector,4,4,0.89494,0.000961,0,7
+95,"Ives, Brayton C.",collector,7,7,0.199913,0.002197,0,7
+101,"Layton, Frederick",collector,1,1,14,0,0,7
+115,"Peters, Samuel T.",collector,2,2,3.670103,0.001706,0,7
+128,"Stewart, Lispenard",collector,4,4,1.260997,0.006239,0,7
+144,"Barger, Samuel F.",collector,5,5,0.878718,0.003723,0,7
+164,"Ream, Norman B.",collector,9,9,0.325356,0.003555,0,7
+168,"Spaulding, William S.",collector,4,4,0.94703,0.004073,0,7
+169,"Spoor, John A.",collector,3,3,2.088717,0.0023,0,7
+178,"Gary, Elbert H.",collector,5,5,0.911704,0.001831,0,7
+197,Subsector 311-Food Manufacturing,subsector,14,14,0.017265,0.000396,0,7
+218,Subsector 531-Real Estate,subsector,16,16,0.018408,0.000262,0,7
+224,Subsector 115-Support Activities for Agriculture and Forestry,subsector,2,2,1.272727,0.00015,0,7
+229,Subsector 336-Transportation Equipment Manufacturing,subsector,13,13,0.03106,0.000149,0,7
+244,"Subsector 423-Merchant Wholesalers, Durable Goods",subsector,8,8,0.072016,0.00012,0,7
+8,"Fletcher, Isaac D.",collector,5,5,0.233155,0.001309,0,8
+14,"Hearst, William Randolph",collector,4,4,0.282828,0.001185,0,8
+16,"Humphreys, Dr. Alexander C.",collector,3,3,1.418719,0.006892,0,8
+20,"Lehman, Arthur",collector,15,15,0.026514,0.001215,0,8
+27,"Seligman, Henry",collector,8,8,0.252728,0.002481,0,8
+29,"Shepherd, James G.",collector,3,3,3.441448,0.001714,0,8
+33,"Valentine, P.A.",collector,4,4,0.979133,0.004211,0,8
+36,"Adams, Edward D.",collector,9,9,0.081472,0.001269,0,8
+39,"Allis, Charles",collector,5,5,0.536787,0.003675,0,8
+46,"Bakewell, Allen Campbell",collector,1,1,27,0,0,8
+59,"Coffin, Charles Albert",collector,2,2,2.454545,0.00141,0,8
+73,"Foos, Lamar",collector,2,2,2.592593,0.002303,0,8
+76,"Gould, Frank Jay",collector,6,6,0.187747,0.001216,0,8
+110,"Morgan, J. Pierpont",collector,6,6,0.82344,0.003403,0,8
+114,"Penfold, Edmund",collector,2,2,7.620968,0.001538,0,8
+119,"Rockefeller, William Avery Jr.",collector,12,12,0.066671,0.001478,0,8
+120,"Roebling, Ferdinand W.",collector,10,10,0.116518,0.001716,0,8
+137,"Ward, Leslie Dodd",collector,9,9,0.077544,0.001462,0,8
+151,"Deering, Charles",collector,1,1,7,0,0,8
+192,Subsector 221-Utilities,subsector,27,27,0.006036,0.000285,0,8
+196,Subsector 492-Couriers and Messengers,subsector,2,2,1.8,0.000107,0,8
+198,Subsector 236-Construction of Buildings,subsector,2,2,2.8125,0.000346,0,8
+206,Subsector 333-Machinery Manufacturing,subsector,7,7,0.060504,0.000668,0,8
+208,Subsector 316-Leather and Allied Product Manufacturing,subsector,6,6,0.112994,0.001767,0,8
+236,Subsector 324-Petroleum and Coal Products Manufacturing,subsector,2,2,1.764706,0.000142,0,8
+242,Subsector 512-Motion Picture and Sound Recording Industries,subsector,2,2,1.578947,0.001863,0,8
+253,Subsector 621-Ambulatory Health Care Services,subsector,1,1,9,0,0,8
+9,"Flower, Frederick, S.",collector,6,6,0.590007,0.001856,0,9
+12,"Harrison, Hugh H.",collector,3,3,1.524652,0.001252,0,9
+40,"Ames, Frederick Lothrop",collector,4,4,1.802954,0.003566,0,9
+50,"Bostwick, Jabez A.",collector,2,2,3.573333,0.000749,0,9
+57,"Clyde, William P.",collector,5,5,0.806132,0.001359,0,9
+61,"Crocker, Charles",collector,7,7,0.317271,0.004219,0,9
+62,"Curtis, George N.",collector,1,1,67,0,0,9
+69,"Fahnestock, Harris Charles",collector,5,5,1.014575,0.003559,0,9
+72,"Flagler, Henry Morrison",collector,6,6,0.319201,0.001562,0,9
+83,"Hill, James N.",collector,6,6,0.603512,0.002235,0,9
+91,"Huntington, Henry Edwards",collector,7,7,0.240434,0.000891,0,9
+102,"Leighton, George E.",collector,5,5,0.751643,0.004661,0,9
+104,"McGarrah, G. W.",collector,4,4,0.238227,0.00209,0,9
+108,"Mills, Darius Ogden",collector,5,5,0.580639,0.003045,0,9
+112,"Oliver, Henry W.",collector,10,10,0.069449,0.0012,0,9
+116,"Raynor, James A.",collector,2,2,6.457831,0.00125,0,9
+129,"Stillman, James",collector,3,3,5.070343,0.002152,0,9
+136,"Vanderbilt, Cornelius II",collector,3,3,6.745298,0.005016,0,9
+147,"Bixby, William K.",collector,5,5,1.224161,0.002907,0,9
+157,"Jewett, William Kennon",collector,7,7,0.341937,0.001664,0,9
+162,"Morgan, J. Pierpont, Jr.",collector,7,7,0.52742,0.002353,0,9
+163,"Nickerson, Samuel M.",collector,2,2,19.112179,0.007594,0,9
+180,"Harkness, Charles W.",collector,5,5,0.818226,0.003495,0,9
+194,Subsector 482-Rail Transportation,subsector,67,67,0.000996,0.000185,0,9
+195,"Subsector 335-Electrical Equipment, Appliance, and Component Manufacturing",subsector,6,6,0.151954,0.000163,0,9
+200,Subsector 212-Mining (except Oil and Gas),subsector,32,32,0.005029,0.000205,0,9
+209,Subsector 483-Water Transportation,subsector,16,16,0.020084,0.000331,0,9
+222,Subsector 211-Oil and Gas Extraction,subsector,8,8,0.081649,0.000163,0,9
+235,Subsector 721-Accommodation,subsector,4,4,0.340909,0.000818,0,9
+247,Subsector 521-Monetary Authorities-Central Bank,subsector,1,1,4,0,0,9
+249,Subsector 488-Support Activities for Transportation,subsector,1,1,10,0,0,9
+42,"Andrews, William Loring",collector,1,1,1,0,1,10
+211,Subsector 519-Other Information Services,subsector,1,1,1,0,1,10
+2,"Brookfield, William",collector,5,5,0.553655,0.001848,0,11
+23,"Obrig, Adolf",collector,3,3,2.292291,0.002242,0,11
+28,"Seligman, Isaac Newton",collector,5,5,0.467676,0.001566,0,11
+43,"Astor, John Jacob (III)",collector,2,2,5.830508,0.000874,0,11
+45,"Baker, George F.",collector,7,7,0.618498,0.003354,0,11
+60,"Cook, Henry H.",collector,3,3,5.285703,0.002413,0,11
+68,"Ellsworth, James W.",collector,4,4,2.084874,0.003339,0,11
+74,"Frick, Henry Clay (NY)",collector,4,4,1.184433,0.001209,0,11
+84,"Hine, Francis L.",collector,4,4,0.444,0.003331,0,11
+88,"Hotchkiss, Horace L.",collector,3,3,1.408805,0.00085,0,11
+89,"Hoyt, Charles Albert",collector,2,2,0.945946,0.000974,0,11
+93,"Hyde, Henry Baldwin",collector,2,2,7.459016,0.002778,0,11
+109,"Moore, William Henry",collector,9,9,0.278977,0.00339,0,11
+117,"Riker, John Lawrence",collector,8,8,0.384441,0.003405,0,11
+118,"Roberts, Marshall O.",collector,5,5,0.680229,0.002067,0,11
+123,"Schwab, Charles M.",collector,3,3,2.208251,0.000951,0,11
+124,"Sloane, William Douglas",collector,7,7,0.232022,0.00165,0,11
+125,"Smith, Charles Stewart",collector,6,6,0.335104,0.00184,0,11
+134,"Tuckerman, Lucius",collector,1,1,22,0,0,11
+154,"Harkness, Edward",collector,2,2,3.168919,0.000995,0,11
+177,"Berwind, Edward Julius",collector,7,7,0.385347,0.002092,0,11
+182,"Reid, Daniel G.",collector,7,7,0.697909,0.003564,0,11
+203,Subsector 524-Insurance Carriers and Related Activities,subsector,35,35,0.003811,0.0002,0,11
+207,"Subsector 525-Funds, Trusts, and Other Financial Vehicles",subsector,43,43,0.002622,0.000161,0,11
+212,Subsector 517-Telecommunications,subsector,16,16,0.017663,0.000234,0,11
+215,Subsector 331-Primary Metal Manufacturing,subsector,22,22,0.010093,0.000287,0,11
+217,Subsector 237-Heavy and Civil Engineering Construction,subsector,7,7,0.082873,0.000225,0,11
+243,Subsector 326-Plastics and Rubber Products Manufacturing,subsector,2,2,0.666667,0.000063,0,11
+251,Subsector 624-Social Assistance,subsector,3,3,0.654206,0.000054,0,11
