@@ -3,7 +3,7 @@
 Betweenness centrality: highest for Union League Club, Sector 52: Finance and Insurance, Sector 31-33: Manufacturing, Sector 48-49: Transportation and Warehousing, 
 Metropolitan Museum of Art, and Lotos Club. Frank W. Gunsaulus has the highest collector betweenness centrality. 
 
-Bridging centrality: highest for collectors, rather than social clubs, museums, or sectors. Examples of collectors with high bridging centrality include Washington Everett Connor, 
+Bridging centrality: highest for collectors rather than social clubs, museums, or sectors. Examples of collectors with high bridging centrality include Washington Everett Connor, 
 William Brookfield, Catholina Lambert, Cornelius Vanderbilt II, Charles Allis, Matthew Challoner Durfee Borden, and Francis L. Hine. 
 
 Bridging coefficient: highest for James T. Closson, Henry H. Cook, Henry Lawrence Horton, William Clark (Newark), Malcolm Graham, Seth Edward Thomas, Lucius Tuckerman. 
@@ -11,5 +11,10 @@ Bridging coefficient: highest for James T. Closson, Henry H. Cook, Henry Lawrenc
 **Gephi files Museum_SocialClub_Subsector**
 
 Betweenness centrality: highest for Union League Club, Subsector 522-Credit Intermediation and Related Activities, Subsector 482: Rail Transportation, Metropolitan Museum of Art,
-Lotos Club, Subsector 525: Funds, Trusts, and Other Financial Vehicles,193	Subsector 523-Securities, Commodity Contracts, and Other Financial Investments and Related Activities,
+Lotos Club, Subsector 525: Funds, Trusts, and Other Financial Vehicles, Subsector 523-Securities, Commodity Contracts, and Other Financial Investments and Related Activities,
 Subsector 523: Securities, Commodity Contracts, and Other Financial Investments and Related Activities. Arthur Lehman has the highest collector betweenness centrality. 
+
+Bridging centrality: highest for collectors rather than social clubs, museums, or sectors. Examples of collectors with high bridging centrality include James T. Closson, 
+Washington Everett Connor, Charles Henry Tenney, Cornelius Vanderbilt II, Tousey Sinclair, and George Crawford Clark.
+
+Bridging coefficient: highest for James T. Closson, George N. Curtis, Henry Lance Horton, George Crawford Clark, George A. Armour, and Subsector 488: Activities for Transportation. 
