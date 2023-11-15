@@ -7,3 +7,9 @@ Bridging centrality: highest for collectors, rather than social clubs, museums, 
 William Brookfield, Catholina Lambert, Cornelius Vanderbilt II, Charles Allis, Matthew Challoner Durfee Borden, and Francis L. Hine. 
 
 Bridging coefficient: highest for James T. Closson, Henry H. Cook, Henry Lawrence Horton, William Clark (Newark), Malcolm Graham, Seth Edward Thomas, Lucius Tuckerman. 
+
+**Gephi files Museum_SocialClub_Subsector**
+
+Betweenness centrality: highest for Union League Club, Subsector 522-Credit Intermediation and Related Activities, Subsector 482: Rail Transportation, Metropolitan Museum of Art,
+Lotos Club, Subsector 525: Funds, Trusts, and Other Financial Vehicles,193	Subsector 523-Securities, Commodity Contracts, and Other Financial Investments and Related Activities,
+Subsector 523: Securities, Commodity Contracts, and Other Financial Investments and Related Activities. Arthur Lehman has the highest collector betweenness centrality. 
