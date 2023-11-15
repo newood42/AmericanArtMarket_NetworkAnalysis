@@ -1,8 +1,18 @@
 Identified modularity clusters are:
   *modularity class 0: 
-    *subsectors:
+    *subsectors: Subsector 332-Fabricated Metal Product Manufacturing; Subsector 325-Chemical Manufacturing; 
+    Subsector 327-Nonmetallic Mineral Product Manufacturing; Subsector 561-Administrative and Support Services; 
+    Subsector 312-Beverage and Tobacco Product Manufacturing; Subsector 111-Crop Production
     *collectors: Blumenthal, George; Reisinger, Hugo; Dun, Robert Graham; Graham, Malcolm; Harding, J. Horace; Hartley, Marcellus; 
     Hyde, Clarence M.; Mellon, Andrew W.; Valentine, Lawson; Warren, John Hobart; Allen, George L.; Catlin, Daniel; Hutchinson, William J.; 
     McAlpin, David H.; Walker, E. Chandler
   *modularity class 1: 
+    *subsectors: Subsector 313-Textile Mills; Subsector 611-Educational Services; Subsector 711-Performing Arts, Spectator Sports, and Related Industries 543; 
+    Subsector 813-Religious, Grantmaking, Civic, Professional, and Similar Organizations
+    *collectors: Fry, John Hemming; Lambert, Catholina; Ruppert, Jacob; Stransky, Josef; Borden, Matthew Challoner Durfee; Clark, William (Newark); 
+    Milliken, Seth Mellen; Gunsaulus, Dr. Frank W.; Comstock, William C.; Gould, Helen
+  *modularity class 2:
+    *subsectors: Subsector 424-Merchant Wholesalers, Nondurable Goods; Subsector 452-General Merchandise Stores
+    *collectors: Hearn, George A.; Tenney, Charles Henry; Butler, Theron R.; Carstairs, John Haseltine; Field, Marshall; Milbank, Jeremiah; Sabin, Charles H.; 
+    Terry, John T.; Lewisohn, Adolph; White, George Robert; Loeser, Frederick
   
