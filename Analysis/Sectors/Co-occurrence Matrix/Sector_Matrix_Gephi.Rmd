@@ -1,0 +1,93 @@
+---
+title: "Museum_Node_SectorSocial_Edges"
+author: "Nicole Wood"
+date: "2023-11-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+collectors_Sector <- read_csv("C:/Users/Nwood/OneDrive - J. Paul Getty Trust/Documents/collectors_sector.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+collectors_museum <- read_csv("C:/Users/Nwood/OneDrive - J. Paul Getty Trust/Documents/collectors_museum.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+collectors_social <- read_csv("/Users/Nwood/OneDrive - J. Paul Getty Trust/Social_Club_R.csv", col_names = TRUE, col_types = cols(.default = "c"))
+```
+
+```{r}
+gephi_nodes_collectors_1 <- collectors_Sector %>%
+  select(label = Name) %>%
+  distinct(label) %>%
+  mutate(role = "collector")
+
+gephi_nodes_collectors_2 <- collectors_museum %>%
+  select(label = Name) %>%
+  distinct(label) %>%
+  mutate(role = "collector")
+
+gephi_nodes_collectors_3 <- collectors_social %>%
+  select(label = Name) %>%
+  distinct(label) %>%
+  mutate(role = "collector")
+
+gephi_nodes_collectors <- bind_rows(gephi_nodes_collectors_1, gephi_nodes_collectors_2, gephi_nodes_collectors_3)
+
+gephi_nodes_collectors <- gephi_nodes_collectors %>%
+  distinct(label, .keep_all = TRUE) %>%
+  arrange(label)
+
+gephi_nodes_museum <- collectors_museum %>%
+  select(label = Organization) %>%
+  distinct(label) %>%
+  mutate(role = "museum")
+
+gephi_nodes <- bind_rows(gephi_nodes_collectors, gephi_nodes_museum)
+```
+
+```{r}
+collectors_sector_red <- collectors_Sector %>%
+  group_by(Sector, Name) %>%
+  summarize(n = n(), .groups = "drop") %>%
+  select(Sector, Name)
+
+sector_table <- crossprod(table(collectors_sector_red[1:2]))
+diag(sector_table) <- 0
+sector_cooccurrence <- as.data.frame(sector_table)
+
+install.packages("Rtools")
+install.packages("igraph")
+library(igraph)
+install.packages("ggraph")
+library(ggraph)
+install.packages("tidygraph")
+library(tidygraph)
+
+nodes_table_sector <- sector_cooccurrence %>%
+  mutate(Person = rownames(.),
+         Ocurrences = rowSums(.)) %>%
+  select(Person, Ocurrences)
+
+edges_table_sector <- sector_cooccurrence %>%
+  mutate(from = rownames(.)) %>%
+  gather(to, Frequency, 'Adams, Edward D.':'Woolworth, Frank Winfield') %>%
+  mutate(Frequency = ifelse(Frequency == 0, NA, Frequency))
+edges_table_sector <- edges_table_sector %>%
+  filter(!is.na(Frequency))
+```
+
+```{r}
+write.csv(nodes_table_sector, "/Users/Nwood/OneDrive - J. Paul Getty Trust/nodes_table_sector.csv")
+write.csv(edges_table_sector, "/Users/Nwood/OneDrive - J. Paul Getty Trust/edges_table_sector.csv")
+```
+
+```{r}
+
+```
+
