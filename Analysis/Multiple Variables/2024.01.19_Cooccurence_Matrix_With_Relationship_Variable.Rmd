@@ -1,0 +1,131 @@
+---
+title: "NA_All_EdgeColor"
+author: "Nicole Wood"
+date: "2024-01-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+
+nodes <- read_csv("C:/Users/Nwood/OneDrive - J. Paul Getty Trust/1912_Nodes.csv", col_names = TRUE, col_types = cols(.default = "c"))
+
+relationships <- read_csv("C:/Users/Nwood/OneDrive - J. Paul Getty Trust/1912_Relationships_All.csv", col_names = TRUE, col_types = cols(.default = "c"))
+```
+
+```{r}
+#creating and edge table of person-to-person relationships, based on different types of relationships/connections. 
+
+relationships_red <- relationships %>%
+  group_by(Target, Source) %>%
+  summarize(n = n(), .groups = "drop") %>%
+  select(Target, Source)
+
+relationships_cat <- relationships_red %>%
+  mutate(relationship_type = case_when(
+         Target == "Union League Club" ~ "social club",
+         Target == "Lotos Club" ~ "social club",
+         Target == "Museum Board" ~ "museum board",
+         Target == "Money Trust Investigation" ~ "Money Trust Investigation",
+         TRUE ~ "business"))
+
+relationships_social <- relationships_cat %>%
+  filter(relationship_type == "social club")
+
+relationships_museum <- relationships_cat %>%
+  filter(relationship_type == "museum board")
+  
+relationships_mti <- relationships_cat %>%
+  filter(relationship_type == "Money Trust Investigation")
+
+relationships_business <- relationships_cat %>%
+  filter(relationship_type == "business")
+
+#making co-occurence matrices and corresponding edge tables for each relationship category.
+#these tables will later be merged. Co-occurence matrices are separated preserve the relationship
+#type when converting to and from co-occurence matrices. 
+
+relationships_soc_table <- crossprod(table(relationships_social[1:2]))
+diag(relationships_soc_table) <- 0
+relationships_soc_cooccurrence <- as.data.frame(relationships_soc_table)
+
+edges_table_soc <- relationships_soc_cooccurrence %>%
+  mutate(source = rownames(.)) %>%
+  gather(target, Frequency, 'Adams, Edward D.':'Woolworth, Frank Winfield') %>%
+  mutate(Frequency = ifelse(Frequency == 0, NA, Frequency)) %>%
+  mutate(relationship_type = "social club")
+
+relationships_mus_table <- crossprod(table(relationships_museum[1:2]))
+diag(relationships_mus_table) <- 0
+relationships_mus_coocurrence <- as.data.frame(relationships_mus_table)
+
+edges_table_mus <- relationships_mus_coocurrence %>%
+  mutate(source = rownames(.)) %>%
+  gather(target, Frequency, 'Adams, Edward D.':"White, George Robert") %>%
+  mutate(Frequency = ifelse(Frequency == 0, NA, Frequency)) 
+
+edges_table_mus <- edges_table_mus %>%
+  mutate(relationship_type = "museum board")
+
+relationships_mti_table <-crossprod(table(relationships_mti[1:2]))
+diag(relationships_mti_table) <- 0
+relationships_mti_coocurrence <- as.data.frame(relationships_mti_table)
+
+edges_table_mti <- relationships_mti_coocurrence %>%
+  mutate(source = rownames(.)) %>%
+  gather(target, Frequency, 'Baker, George F.':'Valentine, P.A.') %>%
+  mutate(Frequency = ifelse(Frequency == 0, NA, Frequency)) %>%
+  mutate(relationship_type = "Money Trust Investigation")
+
+relationships_bus_table <- crossprod(table(relationships_business[1:2]))
+diag(relationships_bus_table) <- 0
+relationships_bus_coocurrence <- as.data.frame(relationships_bus_table)
+
+edges_table_bus <- relationships_bus_coocurrence %>%
+  mutate(source = rownames(.)) %>%
+  gather(target, Frequency, 'Adams, Edward D.':'Woolworth, Frank Winfield') %>%
+  mutate(Frequency = ifelse(Frequency == 0, NA, Frequency)) %>%
+  mutate(relationship_type = "business")
+
+#merging edges tables and dropping rows with a Frequency value of 'NA'
+
+edges_table_all <- rbind(edges_table_soc, edges_table_mus, edges_table_mti, edges_table_bus)
+edges_table_final <- edges_table_all %>%
+  drop_na(Frequency)
+
+#adding node ids to edge table
+
+edges_table_final <- edges_table_final %>%
+  left_join(nodes, by = c("source" = "Label"))
+
+edges_table_final <- edges_table_final %>%
+  rename("source_id" = "ID")
+
+edges_table_final <- edges_table_final %>%
+  left_join(nodes, by = c("target" = "Label")) %>%
+  rename("target_id" = "ID")
+
+edges_table_final <- edges_table_final %>%
+  rename("source_label" = "source",
+         "target_label" = "target",
+         "source" = "source_id",
+         "target" = "target_id",
+         "weight" = "Frequency")
+
+#may need to add a "type" column to clarify if edges are directed or undirected. 
+
+#drop rows in node df that do not have a match in the edges_table_final. 
+#These nodes with no relationship will throw off the final visualization and statistics. 
+
+nodes <- nodes[-(184:205),]
+```
+
+```{r}
+write_csv(nodes, "C:/Users/Nwood/OneDrive - J. Paul Getty Trust/1912_relationships_nodes_2024.01.19.csv")
+write_csv(edges_table_final, "C:/Users/Nwood/OneDrive - J. Paul Getty Trust/1912_relationships_edges_2024.01.19.csv")
+```
+
